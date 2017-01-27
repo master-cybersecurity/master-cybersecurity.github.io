@@ -1,0 +1,29 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+//
+// Component: Tooltip
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@tooltip-z-index:                                   (@global-z-index + 30);
+@tooltip-background:                                @global-secondary-background;
+
+@tooltip-color:                                     lighten(@global-secondary-color, 30%);
+@tooltip-font-size:                                 round((@global-font-size * 0.85));
+@tooltip-line-height:                               round((@tooltip-font-size * 1.5));
+
+
+// Component
+// ========================================================================
+
+.hook-tooltip() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-tooltip-misc() {}

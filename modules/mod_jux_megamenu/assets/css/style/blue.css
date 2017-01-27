@@ -1,0 +1,255 @@
+/**
+ * @version		$Id$
+ * @author		JoomlaUX!
+ * @package		Joomla.Site
+ * @subpackage	mod_jux_megamenu
+ * @copyright	Copyright (C) 2008 - 2013 by JoomlaUX. All rights reserved.
+ * @license		http://www.gnu.org/licenses/gpl.html GNU/GPL version 3
+ */
+ 
+/* Clearfix
+-------------------------------------------------------------*/
+#js-mainnav.megamenu.blue { 
+    background: #0E2C8E; /* you can change/delete the transparent gradient image or the background color */
+    width:100%;
+}
+
+#js-mainnav.megamenu.blue #js-megaMenuToggle {
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+}
+
+/* lv - 0
+-----------------------------------*/
+/* Styling ---*/
+#js-mainnav.megamenu.blue ul.level0 li.mega span.mega,
+#js-mainnav.megamenu.blue ul.level0 li.mega a.mega,
+#js-mainnav.megamenu.blue .megaMenuToggle { 
+    border: 0 none; /* you should comment/delete this line */ 
+    color: #FFFFFF;
+	padding: 8px 12px;
+	text-align:left;
+}
+
+#js-mainnav.megamenu.blue ul.level0 li:hover,
+#js-mainnav.megamenu.blue ul.level0 li.active,
+#js-mainnav.megamenu.blue ul.level0 li.over,
+#js-mainnav.megamenu.blue ul.level0 li.haschild-over { 
+    background: #F7F7F7; /* you can change/remove the transparent gradient or the color */
+}
+
+/* Layout ---*/
+#js-mainnav.megamenu.blue ul.level1 li.mega { border-top: 1px dotted #8E6A4D; background: none; right:0; clear: right; }
+
+#js-mainnav.megamenu.blue ul.level1 li.first { border-top: 0; }
+
+#js-mainnav.megamenu.blue ul.level1 li.mega span.mega,
+#js-mainnav.megamenu.blue ul.level1 li.mega a.mega {
+    border: 0 none;
+    color: #000000 ;
+    font-family: "Helvetica",Myriad Pro,Arial,Tahoma,sans-serif !important;
+    padding: 8px 12px 8px 8px;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.mega span.mega span.menu-title,
+#js-mainnav.megamenu.blue ul.level1 li.mega a.mega span.menu-title { 
+    font-family: "Helvetica",Arial,Helvetica,Tahoma,sans-serif;
+    font-size: 12px ;
+    font-weight: 600;
+	color:#000000;
+	text-transform: none;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.group a.group span.menu-title {
+    text-transform: uppercase;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li:hover,
+#js-mainnav.megamenu.blue ul.level1 li.over,
+#js-mainnav.megamenu.blue ul.level1 li.haschild-over { background:none; } 
+
+#js-mainnav.megamenu.blue ul.level1 li.haschild,
+#js-mainnav.megamenu.blue ul.level1 li.haschild-over {
+	background-image: none;
+	padding: 0;
+}
+
+#js-mainnav.megamenu.blue div.group-title span.menu-title { 
+    font-family: "Helvetica",Arial,Helvetica,Tahoma,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+	color:#000000 !important;
+	text-transform: none;
+    background: none; 
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.mega .has-image {
+    padding-bottom: 2px;
+}
+
+ /* CHILD CONTENT
+-----------------------------------*/
+
+#js-mainnav.megamenu.blue .childcontent-inner {
+    background: none repeat scroll 0 0 #F7F7F7;
+    border-color: #F7F7F7;
+    border-right: 1px solid #F7F7F7;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;
+    box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.5);
+    color: #CFCFCF;
+    font-family: "Helvetica",Myriad Pro,Arial,Tahoma,sans-serif !important;
+	position:relative;
+}
+
+#js-mainnav.megamenu.blue .childcontent-inner .group ul li.active {
+    background: none repeat scroll 0 0 transparent !important;
+}
+
+#js-mainnav.megamenu.blue .childcontent .js-moduletable {
+	color: #ccc;
+}
+
+#js-mainnav.megamenu.blue .childcontent .group h3 {
+	background: none;
+	color: #000000;
+	border-bottom: 1px dotted #8E6A4D;
+}
+
+#js-mainnav.megamenu.blue .childcontent .group div.custom a {
+    color: #407203 !important;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.group a.group{
+    padding:5px 12px
+} 
+
+#js-mainnav.megamenu.blue .childcontent .js-moduletable a {
+	color: #ccc;
+	border-bottom: 1px dotted #ccc;
+}
+
+#js-mainnav.megamenu.blue .childcontent .js-moduletable a:hover,
+#js-mainnav.megamenu.blue .childcontent .js-moduletable a:focus,
+#js-mainnav.megamenu.blue .childcontent .js-moduletable a:active {
+	color: #fff;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+}
+
+/* Grouped --- */
+#js-mainnav.megamenu.blue .group-title {
+    border: 1px dashed #CFCFCF;
+}
+
+#js-mainnav.megamenu.blue ul.level0 li.mega span.menu-desc {
+    color: #999999;
+    display: block;
+    font-size: 92%;
+    font-weight: normal;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.mega span.menu-desc {
+    color: #666666;
+    display: block;
+    font-family: "Helvetica",Myriad Pro,Arial,Tahoma,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+#js-mainnav.megamenu.blue a:hover,
+#js-mainnav.megamenu.blue a.over {
+    background: none repeat scroll 0 0 #F7F7F7;
+}
+
+#js-mainnav.megamenu.blue .js-megamenu li.mega:hover > a,
+#js-mainnav.megamenu.blue .js-megamenu a.over,
+#js-mainnav.megamenu.blue .js-megamenu a.active {
+    color: #0E2C8E !important;
+}
+
+#js-mainnav.megamenu.blue .js-megamenu li.mega:hover > a.mega > span.menu-title,
+#js-mainnav.megamenu.blue .js-megamenu a.over span.menu-title,
+#js-mainnav.megamenu.blue .js-megamenu a.active span.menu-title {
+    color: #0E2C8E !important;
+}
+
+#js-mainnav.megamenu.blue ul.level0 li.haschild a:hover > span.menu-title,
+#js-mainnav.megamenu.blue ul.level0 li.haschild a.over span.menu-title,
+#js-mainnav.megamenu.blue ul.level0 li.haschild-over a.over span.menu-title {
+    background: url("../../images/arrow3.png") no-repeat scroll left center transparent;
+    padding-left: 12px;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.mega a.mega span.menu-title,
+#js-mainnav.megamenu.blue ul.level1 li.mega a.mega span.menu-title {
+    background: none;
+    padding-left: 0px;
+}
+
+#js-mainnav.megamenu.blue ul.level0 li.haschild a.mega span.menu-desc,
+#js-mainnav.megamenu.blue ul.level0 li.haschild-over a.mega span.menu-desc {
+    padding-left: 0px;
+}
+
+#js-mainnav.megamenu.blue .childcontent .moduletable {
+    color: #000000;
+    margin: 0;
+}
+
+#js-mainnav.megamenu.blue ul.level0  img.borderImageMega,
+#js-mainnav.megamenu.blue ul.level0  a img.borderImageMega {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #999999;
+    margin: 5px 10px;
+    padding: 5px;
+}
+
+#js-mainnav.megamenu.blue .childcontent .moduletable h4 a {
+    color: #0E2C8E !important;
+    text-decoration: none;
+}
+
+#js-mainnav.megamenu.blue .childcontent .moduletable ul li {
+     margin-left:15px;
+	 margin-bottom:10px;
+}
+
+#js-mainnav.megamenu.blue .childcontent .moduletable ul li a {
+     color:#0E2C8E !important;
+}
+
+#js-mainnav.megamenu.blue .childcontent .moduletable ul li a:hover {
+     background:none !important;
+}
+
+#js-mainnav.megamenu.blue .js-megamenu {
+    float: left;
+    width: 100%;
+}
+
+#js-mainnav.megamenu.blue ul.level0 {
+    border-right: none;
+    float: left;
+	margin:0px;
+	padding:0px;
+}
+
+#js-mainnav.megamenu.blue ul.level1 {
+    padding:0px;
+}
+
+#js-mainnav.megamenu.blue ul.level1 li.mega span.mega,
+#js-mainnav.megamenu.blue ul.level1 li.mega a.mega {
+    text-align:left;
+}
+
+.contentheading, .componentheading, h1, h2, h3, h4, h5 {
+    font-family: "Myriad Pro",Arial,Helvetica,Tahoma,sans-serif;
+}
+
+h4, h4 a, h4 a:hover {
+    font: 22px/27px "Myriad Pro",Arial,Helvetica,Tahoma,sans-serif;
+	background:none;
+}

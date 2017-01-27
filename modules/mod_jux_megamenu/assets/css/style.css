@@ -1,0 +1,521 @@
+/**
+ * @version		$Id$
+ * @author		JoomlaUX!
+ * @package		Joomla.Site
+ * @subpackage	mod_jux_megamenu
+ * @copyright	Copyright (C) 2008 - 2013 by JoomlaUX. All rights reserved.
+ * @license		http://www.gnu.org/licenses/gpl.html GNU/GPL version 3
+*/
+/* Clearfix
+-------------------------------------------------------------*/
+* html .clearfix {
+  height: 1%;
+  /* IE5-6 */
+}
+html[xmlns] .clearfix {
+  /* O */
+  display: block;
+}
+#js-mainnav.megamenu .clearfix:after {
+  /* FF, O, etc. */
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* 
+#js-mainnav.megamenu .wrap {
+	height: auto !important;
+	visibility: visible !important;
+	border: 0 none;
+    clear: both;
+    float: none;
+    font-size: 1px;
+    line-height: 1px;
+    margin: 0;
+    padding: 0;
+} */
+#js-mainnav.megamenu {
+  line-height: 1;
+  position: relative;
+  z-index: 9;
+}
+#js-mainnav.megamenu ul {
+  list-style: none outside none;
+}
+#js-mainnav.megamenu div.megaMenuToggle {
+  display: none;
+}
+#js-mainnav.megamenu .js-megamenu {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+#js-mainnav.megamenu ul.megamenu {
+  margin: 10px;
+  /* menu's gutter */
+}
+#js-mainnav.megamenu ul.megamenu.level1 {
+  padding: 0;
+}
+/* lv - 0
+-----------------------------------*/
+/* Styling ---*/
+#js-mainnav.megamenu ul.level0 {
+  margin: 0;
+  padding: 0;
+}
+#js-mainnav.megamenu ul.level0 li.mega {
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+#js-mainnav.megamenu ul.level0 li.mega.right {
+  float: right;
+}
+#js-mainnav.megamenu ul.level0 li.mega span.mega,
+#js-mainnav.megamenu ul.level0 li.mega a.mega {
+  display: block;
+  line-height: normal;
+  margin: 0;
+  padding: 8px 15px;
+  text-decoration: none;
+  cursor: pointer;
+}
+#js-mainnav.megamenu ul.level0 li.mega .has-image {
+  padding-left: 25px;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: left top;
+  cursor: pointer;
+}
+#js-mainnav.megamenu span.menu-image {
+  background-position: left 1px;
+  background-repeat: no-repeat;
+  display: block;
+  overflow: hidden;
+  padding-left: 21px;
+}
+#js-mainnav.megamenu ul.level1 li.mega.group:hover {
+  background: none !important;
+}
+#js-mainnav.megamenu ul.level0 li.mega span.menu-title {
+  display: block;
+}
+#js-mainnav.megamenu ul.level0 li.mega span.menu-desc {
+  display: block;
+  font-weight: normal;
+  font-size: 88%;
+}
+#js-mainnav.megamenu ul.level0 li.mega a img {
+  /*float: left;*/
+  /*padding-right: 5px;*/
+}
+#js-mainnav.megamenu ul.level0 li.mega span.image-title {
+  padding-left: 5px;
+}
+#js-mainnav.megamenu ul.level0 li.haschild a.mega span.menu-desc,
+#js-mainnav.megamenu ul.level0 li.haschild-over a.mega span.menu-desc {
+  padding-left: 6px;
+}
+#js-mainnav.megamenu ul.level0 li #current.active {
+  background: none;
+}
+/* Menu aligment and direction specific style */
+#js-mainnav.megamenu.vertical {
+  background-image: none;
+}
+#js-mainnav.megamenu.horizontal.left ul.level0 {
+  float: left;
+  width: 100%;
+}
+#js-mainnav.megamenu.horizontal.center ul.level0 {
+  float: left;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  -o-transform: translate(-50%);
+}
+/* Fix bug: site width is over when Menu is align Center */
+body {
+  overflow-x: hidden !important;
+}
+#js-mainnav.megamenu.horizontal.right ul.level0 {
+  float: right;
+}
+#js-mainnav.megamenu.vertical ul.level0 {
+  float: left;
+  max-width: 100%;
+  width: 100%;
+}
+#js-mainnav.megamenu.horizontal.center ul.megamenu.level1 {
+  left: 0;
+  position: relative;
+}
+#js-mainnav.megamenu.vertical ul.level0 li.mega {
+  float: none;
+}
+#js-mainnav.megamenu.vertical li.mega {
+  float: none;
+}
+#js-mainnav.megamenu.horizontal.center ul.level0 li.mega {
+  position: relative;
+}
+#js-mainnav.megamenu.vertical.right ul.level0 li.mega span.mega,
+#js-mainnav.megamenu.vertical.right ul.level0 li.mega a.mega {
+  text-align: right;
+}
+#js-mainnav.megamenu.horizontal ul.level0 li a.haschild.mega span.menu-title,
+#js-mainnav.megamenu.horizontal ul.level0 li a.haschild-over.mega span.menu-title {
+  background: url(../images/arrow3.png) no-repeat left center;
+  padding-left: 6px;
+  background-position: 100% 4px;
+  margin-right: 6px;
+  padding-right: 10px;
+}
+#js-mainnav.megamenu.vertical.left li a.haschild.mega span.menu-title,
+#js-mainnav.megamenu.vertical.left li a.haschild-over.mega span.menu-title {
+  background: url(../images/arrow.png) no-repeat right center;
+  padding-left: 0px;
+}
+#js-mainnav.megamenu.vertical.right li a.haschild.mega span.menu-title,
+#js-mainnav.megamenu.vertical.right li a.haschild-over.mega span.menu-title {
+  background: url(../images/arrow_right.png) no-repeat left center;
+  padding-left: 0px;
+}
+#js-mainnav.megamenu.vertical ul.level0 li a.haschild.mega span.menu-desc,
+#js-mainnav.megamenu.vertical ul.level0 li a.haschild-over.mega span.menu-desc {
+  padding-left: 0px;
+}
+#js-mainnav.megamenu.horizontal.center ul.level1 li.mega {
+  position: relative;
+  right: 0;
+}
+#js-mainnav.megamenu.vertical.left ul.level1 li.haschild,
+#js-mainnav.megamenu.vertical.left ul.level1 li.haschild-over {
+  background-image: url('../images/arrow.png');
+  background-repeat: no-repeat;
+  background-position: 95% center;
+  padding: 0;
+}
+#js-mainnav.megamenu.vertical.right ul.level1 li.haschild,
+#js-mainnav.megamenu.vertical.right ul.level1 li.haschild-over {
+  background-image: url('../images/arrow_right.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding: 0;
+}
+#js-mainnav.megamenu.vertical.left .js-megamenu ul.level0 li.mega .childcontent {
+  margin-left: 100% !important;
+  margin-top: -32px;
+}
+#js-mainnav.megamenu.vertical.right .js-megamenu ul.level0 li.mega .childcontent {
+  margin-left: -99% !important;
+  margin-top: -32px;
+  right: 95%;
+}
+#js-mainnav.megamenu.vertical.left .js-megamenu ul.level1 li.mega .childcontent {
+  margin-top: 0px !important;
+  top: 0px;
+}
+#js-mainnav.megamenu.vertical.right .js-megamenu ul.level1 li.mega .childcontent {
+  margin-left: -100% !important;
+  margin-top: -32px;
+}
+#js-mainnav.megamenu.vertical.left ul.level1 li.haschild,
+ul.level1 li.haschild-over {
+  position: relative;
+}
+/* lv - 1 and below
+-----------------------------------*/
+/* Layout ---*/
+#js-mainnav.megamenu .js-megamenu li.mega .childcontent {
+  display: block;
+  height: auto;
+  position: absolute;
+}
+#js-mainnav.megamenu .js-megamenu li.mega .childcontent,
+#js-mainnav.megamenu .js-megamenu li.haschild-over li.mega .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.haschild-over li.mega .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.haschild-over li.mega .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.haschild-over li.mega .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.mega li.haschild-over li.mega .childcontent {
+  left: -999em;
+  /*hide the menu*/
+}
+#js-mainnav.megamenu .js-megamenu li.haschild-over .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.haschild-over .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.haschild-over .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.haschild-over .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.mega li.haschild-over .childcontent,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.mega li.mega li.haschild-over .childcontent {
+  left: auto;
+  /*show on parent:hover*/
+}
+#js-mainnav.megamenu .js-megamenu li.mega .right,
+#js-mainnav.megamenu .js-megamenu li.haschild-over li.mega .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.haschild-over li.mega .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.haschild-over li.mega .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.haschild-over li.mega .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.mega li.haschild-over li.mega .right {
+  right: auto;
+  /*hide the menu*/
+}
+#js-mainnav.megamenu .js-megamenu li.haschild-over .right {
+  right: 0;
+  /*show on parent:hover*/
+}
+#js-mainnav.megamenu .js-megamenu li.mega li.haschild-over .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.haschild-over .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.haschild-over .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.mega li.haschild-over .right,
+#js-mainnav.megamenu .js-megamenu li.mega li.mega li.mega li.mega li.mega li.haschild-over .right {
+  right: 12em;
+  /*show on parent:hover*/
+}
+#js-mainnav.megamenu ul.level1 li.mega {
+  float: none;
+}
+#js-mainnav.megamenu ul.level1 .childcontent {
+  margin: -20px 0 0 0;
+}
+/* Columns ---*/
+#js-mainnav.megamenu .megacol {
+  float: left;
+}
+/* Styling ---*/
+#js-mainnav.megamenu ul.level1 li.mega {
+  background: none;
+}
+#js-mainnav.megamenu ul.level1 li.first {
+  border-top: 0;
+}
+#js-mainnav.megamenu ul.level1 li.mega span.mega,
+#js-mainnav.megamenu ul.level1 li.mega a.mega {
+  background: none;
+  border: 0;
+  font-weight: normal;
+  padding: 8px 5px;
+}
+#js-mainnav.megamenu ul.level1 li.mega a.haschild.mega span.menu-title,
+#js-mainnav.megamenu ul.level1 li.mega a.haschild-over.mega span.menu-title {
+  background: none;
+  padding: 0;
+}
+#js-mainnav.megamenu ul.level1 li.group {
+  background: none;
+}
+/* CHILD CONTENT
+-----------------------------------*/
+#js-mainnav.megamenu .childcontent {
+  z-index: 999;
+}
+#js-mainnav.megamenu .childcontent .js-moduletable {
+  border-bottom: 0;
+  line-height: 1.5;
+  margin: 10px 0;
+  padding: 0;
+}
+#js-mainnav.megamenu .childcontent-inner a {
+  text-decoration: none;
+  width: auto;
+}
+#js-mainnav.megamenu .childcontent .group h3 {
+  background: none;
+  padding: 0 5px 8px;
+  text-transform: none;
+}
+#js-mainnav.megamenu .childcontent .group .moduletable {
+  background: none;
+  padding-top: 12px;
+}
+#js-mainnav.megamenu .childcontent .js-moduletable .js-box-ct {
+  padding: 0 5px;
+}
+#js-mainnav.megamenu .childcontent .js-moduletable a {
+  text-decoration: none;
+}
+#js-mainnav.megamenu .childcontent .js-moduletable a:hover,
+#js-mainnav.megamenu .childcontent .js-moduletable a:focus,
+#js-mainnav.megamenu .childcontent .js-moduletable a:active {
+  text-decoration: none;
+}
+#js-mainnav.megamenu .childcontent .js-moduletable ul:first-child {
+  margin-top: 0 !important;
+}
+#js-mainnav.megamenu .childcontent .js-moduletable li {
+  margin-bottom: 5px;
+}
+/* Grouped --- */
+#js-mainnav.megamenu .group-title {
+  overflow: hidden;
+}
+#js-mainnav.megamenu .group-title .menu-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 115%;
+}
+#js-mainnav.megamenu .group-title .menu-desc {
+  padding-left: 0 !important;
+}
+#js-mainnav.megamenu .group-content .js-moduletable,
+#js-mainnav.megamenu .group-content ul.megamenu {
+  margin: 10px;
+  /* Group-content's gutter*/
+  padding: 0;
+}
+/* reset --- */
+#js-mainnav.megamenu .childcontent .moduletable {
+  padding: 10px;
+}
+#js-mainnav.megamenu ul.level0 .childcontent .moduletable li:hover,
+#js-mainnav.megamenu ul.level0 .childcontent .moduletable a:hover {
+  background: none;
+}
+#js-mainnav.megamenu .childcontent-inner {
+  overflow: visible;
+}
+#js-mainnav.megamenu .childcontent .moduletable h3 {
+  margin: 0px;
+  padding: 0px 0px 10px 0px;
+}
+#js-mainnav.megamenu .childcontent .moduletable {
+  padding: 10px;
+}
+/* show img with no title   */
+#js-mainnav.megamenu span.no-title {
+  padding: 0px;
+}
+#js-mainnav.megamenu span.no-title img {
+  padding: 0px !important;
+}
+/* Image style */
+#js-mainnav.megamenu ul.megamenu.level0 li.big-img-left,
+#js-mainnav.megamenu ul.megamenu.level0 .big-img-right {
+  padding: 5px 0;
+}
+#js-mainnav.megamenu ul.megamenu.level0 .big-img-left img {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+#js-mainnav.megamenu ul.megamenu.level0 .big-img-right img {
+  float: right;
+  margin: 0 10px 0 10px;
+}
+#js-mainnav.megamenu ul.megamenu.level0 .big-img-left span.image-title,
+#js-mainnav.megamenu ul.megamenu.level0 .big-img-right span.image-title {
+  padding: 0;
+}
+/* override reset style */
+#js-mainnav.megamenu ul.megamenu.level0 input#mod-search-searchword {
+  max-width: 100px;
+}
+#js-mainnav.megamenu ul.megamenu.level0 form {
+  margin: 6px 10px;
+}
+#js-mainnav.megamenu ul.megamenu.level0 .contact-form form {
+  margin: 0;
+}
+#js-mainnav.megamenu ul.megamenu.level0 .contact-form form p {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+}
+.tip-wrap {
+  z-index: 9999;
+}
+/* Disable Mootools libraries, use CSS3 animation */
+#js-mainnav.noJS ul.megamenu li.haschild > div.childcontent {
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: opacity 0.4s;
+  -moz-transition: opacity 0.4s;
+  -ms-transition: opacity 0.4s;
+  -o-transition: opacity 0.4s;
+  transition: opacity 0.4s;
+}
+#js-mainnav.noJS ul.megamenu li.haschild:hover > div.childcontent {
+  opacity: 1;
+  left: auto;
+  visibility: visible;
+}
+/************************************************************************/
+/*                     Submenu alignment                                */
+/************************************************************************/
+/* Center alignment */
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-center > .childcontent {
+  left: 50% !important;
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -moz-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  -o-transform: translate(-50%);
+  margin-left: 0 !important;
+}
+/* Full-width alignment */
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-fullwidth {
+  position: static !important;
+}
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-fullwidth > .childcontent {
+  left: 0 !important;
+  margin-left: 0 !important;
+}
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-fullwidth > .childcontent,
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-fullwidth > .childcontent > .childcontent-inner-wrap,
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-fullwidth > .childcontent > .childcontent-inner-wrap > .childcontent-inner {
+  width: 100% !important;
+}
+/* Right alignment */
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-right > .childcontent {
+  left: auto !important;
+  right: 0 !important;
+  margin-left: 0 !important;
+}
+#js-mainnav.horizontal ul.level1 li.mega.submenu-align-right > .childcontent {
+  left: auto !important;
+  right: 100% !important;
+}
+/* Left alignment */
+#js-mainnav.horizontal ul.level0 li.mega.submenu-align-left > .childcontent {
+  left: 0!important;
+  margin-left: 0!important;
+}
+#js-mainnav.horizontal ul.level1 li.mega.submenu-align-left > .childcontent {
+  left: 100%!important;
+}
+/* Style for none-mobile */
+@media screen and (min-width: 768px) {
+  /* Sticky Mega Menu */
+  #js-mainnav.megamenu-sticky {
+    left: 0;
+    right: auto;
+    width: 100%;
+    border-radius: 0;
+    margin: 0 !important;
+    z-index: 1000;
+    position: fixed !important;
+    top: 0px;
+    bottom: auto !important;
+    -webkit-transition: none;
+    -moz-transition: none;
+    transition: none;
+  }
+}
+/* Style for mobile */
+@media screen and (max-width: 768px) {
+  /* Tooltip */
+  .tip-wrap {
+    display: none !important;
+  }
+}
+.js-megamenu .megamenu i.font-icon {
+  float: left;
+  margin-right: 2px;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="1.6" method="upgrade" client="administrator">
+	<name>ACL Manager - Language: Italian</name>
+	<author>Luca Comin</author>
+	<authorEmail>info@studiosernagiotto.it</authorEmail>
+	<authorUrl>www.studiosernagiotto.it</authorUrl>
+	<copyright>Copyright (C) 2013 Sander Potjer Webdevelopment. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
+	<version>2.4.0</version>
+	<creationDate>2014-01-06</creationDate>
+	<description>Lingua italiana per ACL Manager (Sander Potjer)</description>
+	<fileset>
+		<!-- administrator language -->
+		<files target="administrator/language/it-IT">
+			<filename>it-IT.com_aclmanager.ini</filename>
+			<filename>it-IT.com_aclmanager.sys.ini</filename>
+		</files>
+	</fileset>
+</extension>

@@ -1,0 +1,608 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+@import "uikit/uikit.less";
+
+/* ========================================================================
+   Warp theme
+ ========================================================================== */
+
+/* Layout
+ ========================================================================== */
+
+/*
+ * Force vertical scrollbar
+ */
+
+html { overflow-y: scroll; }
+
+/*
+ * Blocks
+ */
+
+.tm-block-top {
+	margin-bottom: @global-grid-gutter;
+	background: @navbar-background;
+}
+
+/* Stick navbar (added with version 1.0.1) */
+.tm-sticky-navbar .tm-block-top {
+	position: fixed;
+	top: 0;
+	z-index: 10;
+	width: 100%;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.tm-sticky-navbar .tm-block-top + * { margin-top: @navbar-nav-height + (2 * 10px); }
+
+.tm-block-top .tm-logo { float: left; }
+
+.tm-footer {
+	margin-top: @global-grid-gutter;
+	margin-bottom: @global-grid-gutter;
+}
+
+@media (min-width: @breakpoint-medium) {
+
+	/* Webkit flickering fix */
+	.uk-panel {
+		position: relative;
+		-webkit-backface-visibility: hidden;
+	}
+
+}
+
+/* Only large screens */
+@media (min-width: @breakpoint-xlarge) {
+
+	.tm-block-top,
+	.tm-sticky-navbar .tm-block-top { margin-bottom: @global-grid-large-gutter; }
+
+	.tm-footer {
+		margin-top: @global-grid-large-gutter;
+		margin-bottom: @global-grid-large-gutter;
+	}
+
+}
+
+/* Only tablets and phones */
+@media (max-width: @breakpoint-medium-max) {
+
+	.uk-heading-large {
+		font-size: 48px;
+		line-height: 52px
+	}
+
+}
+
+/* Only phones */
+@media (max-width: @breakpoint-small-max) {
+
+	.tm-block-top .tm-logo { display: none; }
+
+	.tm-navbar {
+		margin: 0 -@utility-container-padding-horizontal;
+		border-width: 0 0 1px 0;
+	}
+
+	.tm-logo-small:hover { text-decoration: none; };
+
+	.tm-navbar:not(.uk-navbar-attached) { border-radius: 0; }
+
+}
+
+/*
+ * Logo small
+ * Remove whitespace caused by vertical centering to prevent logo wrapping into the next line
+ */
+
+.tm-logo-small { letter-spacing: -0.31em; }
+
+/*
+ * Middle
+ */
+
+.tm-main > :nth-child(n+2) { margin-top: @global-grid-gutter; }
+
+.tm-content > :last-child { margin-bottom: 0; }
+
+/* Only large screens */
+@media (min-width: @breakpoint-xlarge) {
+
+	.tm-main > :nth-child(n+2) { margin-top: @global-grid-large-gutter; }
+
+}
+
+/*
+ * Footer
+ */
+
+.tm-footer {
+	position: relative;
+	padding-top: @global-grid-gutter;
+	border-top: 2px solid @global-border;
+	text-align: center;
+	color: @global-muted-color;
+
+	a {
+		color: @global-color;
+
+		&:hover { color: @global-contrast-color; }
+	}
+}
+
+.tm-footer .uk-panel + .uk-panel { margin-top: @global-grid-gutter; }
+
+/* Only large screens */
+@media (min-width: @breakpoint-xlarge) {
+
+	.tm-footer .uk-panel + .uk-panel { margin-top: @global-grid-large-gutter; }
+
+}
+
+/*
+ * To-top scroller
+ */
+
+.tm-totop-scroller {
+	display: block;
+	position: absolute;
+	top: @global-grid-gutter;
+	right: 0;
+	z-index: @global-z-index;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	font-size: 14px;
+	color: @global-color;
+	text-align: center;
+	-webkit-transition: all linear 0.05s;
+	transition: all linear 0.05s;
+}
+
+.tm-totop-scroller:after {
+	content: "\f077";
+	font-family: "FontAwesome";
+}
+
+/*
+ * Hover
+ * 1. Apply hover style also to focus state
+ * 2. Remove default focus style
+ */
+
+.tm-totop-scroller:hover,
+.tm-totop-scroller:focus { /* 1 */
+	color: lighten(@global-color, 20%);
+	font-size: 16px;
+	outline: none; /* 2 */
+	text-decoration: none;
+}
+
+/* Active */
+.tm-totop-scroller:active {
+	color: darken(@global-color, 20%);
+	font-size: 11px;
+}
+
+
+/* Error
+ ========================================================================== */
+
+.tm-error-icon { font-size: 250px; }
+
+.tm-error-headline { font-size: 100px; }
+
+
+/* Offline
+ ========================================================================== */
+
+.tm-offline { width: 300px; }
+
+
+/* Socialbuttons
+ ========================================================================== */
+
+ .tm-socialbuttons {
+
+     line-height: 1;
+
+     > div {
+         margin-right: 10px;
+         float: left;
+     }
+ }
+
+/* WordPress only
+ ========================================================================== */
+
+.alignleft {
+	display: block;
+	margin-right: @utility-align-horizontal;
+	float: left;
+}
+
+.alignright {
+	display: block;
+	margin-left: @utility-align-horizontal;
+	float: right;
+}
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/* Mosaic
+ ========================================================================== */
+
+.tm-mosaic {
+	position: relative;
+	margin: (@global-grid-gutter / 2) (-@global-grid-gutter / 2);
+}
+
+.tm-mosaic .uk-panel {
+	float: left;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	overflow: hidden;
+	border: (@global-grid-gutter / 2) solid transparent;
+	background-clip: padding-box;
+}
+
+
+/* Image Offset for .uk-panel-box */
+.tm-mosaic-image {
+	margin: -@panel-box-padding;
+}
+
+/* Only tablets and desktop */
+@media (min-width: @breakpoint-small-max) {
+
+	.tm-mosaic-image { margin: -@panel-box-padding-large; }
+
+}
+
+.tm-masonary-column-indicator {
+	width: 100%;
+	height: 0;
+	visibility: hidden;
+}
+
+@media (min-width: 641px) {
+
+	.tm-masonary-column-indicator {
+		width: 33.3%;
+	}
+
+}
+
+@media (min-width: @breakpoint-large) {
+
+	.tm-masonary-column-indicator {
+		width: 25%;
+	}
+
+}
+
+@media (min-width: @breakpoint-xlarge) {
+
+	.tm-masonary-column-indicator {
+		width: 20%;
+	}
+
+}
+
+
+/* Article panel boxed style
+ ========================================================================== */
+
+.tm-article-panel .uk-article {
+	padding: @panel-box-padding;
+	background: @panel-box-background;
+}
+
+.tm-article-panel .uk-breadcrumb {
+	padding: @panel-box-padding;
+	background: @panel-box-background;
+}
+
+/* Only tablets and desktop */
+@media (min-width: @breakpoint-small-max) {
+
+	.tm-article-panel .uk-article { padding: @panel-box-padding-large; }
+
+}
+
+/* margin remove for uk-article-title */
+.tm-article-panel .uk-article .uk-article-title { margin-top: 0; }
+
+/* making uk-panel-box in uk-article lighter */
+.tm-article-panel .uk-article {
+
+	.uk-panel-box { background: lighten(@panel-box-background, 3%); }
+
+	.uk-panel-box-primary { background: @panel-box-primary-background; }
+
+	.uk-panel-box-secondary { background: @panel-box-secondary-background; }
+
+}
+
+.tm-article-panel .uk-article .uk-comment { background: lighten(@comment-background, 3%); }
+
+
+/* Multiple Text Columns
+ ========================================================================== */
+
+/* Only tablets + desktop */
+@media (min-width: @breakpoint-small-max) {
+
+	.tm-article-columns {
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
+		-webkit-column-gap: @global-grid-gutter;
+		-moz-column-gap: @global-grid-gutter;
+		column-gap: @global-grid-gutter;
+	}
+
+}
+
+/* Only desktop */
+@media (max-width: @breakpoint-large) {
+
+	:not(.uk-width-medium-1-1):not(.uk-width-1-1) > .uk-article .tm-article-columns {
+		-webkit-column-count: 1;
+		-moz-column-count: 1;
+		column-count: 1;
+	}
+
+}
+
+
+/* Colors
+ ========================================================================== */
+
+.tm-primary-color { color: @global-link-color; }
+
+.tm-secondary-color { color: @global-secondary-color; }
+
+
+/* Socialicons
+ ========================================================================== */
+
+.tm-social-icons {
+	margin-top: @global-grid-gutter;
+	text-align: left;
+}
+
+.tm-social-icons > a { margin-right: 10px; }
+
+.tm-social-icons > a:last-child { margin-right: 0; }
+
+/* Only tablet portrait and phones */
+@media (max-width: @breakpoint-medium) {
+
+	.tm-social-icons .uk-icon-button {
+		width: (@icon-button-width - 10px);
+		height: (@icon-button-height - 10px);
+		line-height: (@icon-button-height - 10px);
+		font-size: (@icon-button-font-size - 10px);
+	}
+
+	.tm-social-icons > a { margin-right: 5px; }
+
+}
+
+
+/* Only tablet landscape and bigger */
+@media (min-width: @breakpoint-medium) {
+
+	.tm-social-icons { text-align: right; }
+
+}
+
+/* Only desktop and bigger */
+@media (min-width: @breakpoint-large) {
+
+	.tm-social-icons { margin-top: (@global-grid-large-gutter * 1.2); }
+
+}
+
+
+/* Image avatar
+ ========================================================================== */
+
+.tm-image-avatar { border-radius: 50%; }
+
+.tm-image-avatar[class*='uk-align-'] { margin-bottom: 0 !important; }
+
+
+/* Subheading Large
+ ========================================================================== */
+
+.tm-subheading-large { margin-bottom: @global-grid-gutter !important; }
+
+/* Only tablets and phones */
+@media (max-width: @breakpoint-medium-max) {
+
+	.tm-subheading-large {
+		font-size: 28px;
+		line-height: 32px;
+		margin-bottom: 10px !important;
+	}
+
+}
+
+
+/* Article date
+ ========================================================================== */
+
+.uk-article .tm-article-date {
+	float: left;
+	max-width: 80px;
+	margin-top: 5px;
+	margin-right: @article-margin-top;
+	padding-right: @article-margin-top;
+	border-right: 2px solid @global-border;
+	color: @global-muted-color;
+
+	.tm-article-date-day {
+		display: block;
+		font-size: 15px;
+	}
+
+	.tm-article-date-year {
+		display: block;
+		font-size: 22px;
+	}
+}
+
+
+/* Dropdown stack
+ ========================================================================== /
+
+/
+ * Reset width if column width is set
+ */
+
+.uk-dropdown-navbar.uk-dropdown-stack {
+    min-width: 0 !important;
+    max-width: none !important;
+}
+
+
+/* Widgetkit Layer
+ ========================================================================== */
+
+/*
+ * Widgetkit Slideshow: Showcase Style
+ */
+
+.wk-slideshow-showcasebox .slides-container {
+    border-color: @global-border;
+    background: @global-background;
+}
+
+/* Slideset: Container */
+.wk-slideshow-showcasebox .wk-slideset > div {
+    border-color: @global-border;
+    background: darken(@global-background, 3%);
+    background: -webkit-linear-gradient(top, darken(@global-background, 3%) 0%, @global-background 7%);
+    background: linear-gradient(to bottom, darken(@global-background, 3%) 0%, @global-background 7%);
+}
+
+/* Slideset: Content */
+.wk-slideshow-showcasebox .wk-slideset .set > li > div,
+.wk-slideshow-showcasebuttons .wk-slideset .set > li > div { background: @global-border; }
+
+.wk-slideshow-showcasebox .wk-slideset .set > li > div > div,
+.wk-slideshow-showcasebuttons .wk-slideset .set > li > div > div {
+    background: darken(@global-background, 1%);
+    box-shadow: none;
+    text-shadow: 0 1px 0 @global-background;
+}
+
+/* Hover */
+.wk-slideshow-showcasebox .wk-slideset .set > li > div:hover,
+.wk-slideshow-showcasebuttons .wk-slideset .set > li > div:hover {
+    background: @global-border;
+    background: -webkit-linear-gradient(top, @global-border, darken(@global-border, 3%));
+    background: linear-gradient(to bottom, @global-border, darken(@global-border, 3%));
+}
+
+.wk-slideshow-showcasebox .wk-slideset .set > li > div:hover { box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
+
+.wk-slideshow-showcasebox .wk-slideset .set > li > div:hover > div,
+.wk-slideshow-showcasebuttons .wk-slideset .set > li > div:hover > div {
+    background: @global-background;
+    background: -webkit-linear-gradient(top, @global-background, darken(@global-background, 3%));
+    background: linear-gradient(to bottom, @global-background, darken(@global-background, 3%));
+}
+
+/* Active */
+.wk-slideshow-showcasebox .wk-slideset .set > li.active > div,
+.wk-slideshow-showcasebuttons .wk-slideset .set > li.active > div {
+    box-shadow: none;
+    background: @global-border;
+}
+
+.wk-slideshow-showcasebox .wk-slideset .set > li.active > div > div,
+.wk-slideshow-showcasebuttons .wk-slideset .set > li.active > div > div {
+    background: darken(@global-background, 3%);
+    box-shadow: 0 0 1px rgba(0,0,0,0.1) inset;
+}
+
+/*
+ * Widgetkit Slideshow: Tabs Style
+ */
+
+/* Navigation */
+.wk-slideshow-tabs .nav li,
+.wk-slideshow-tabsbar .nav-container {
+    border-color: @global-border;
+    background: darken(@global-background, 3%);
+    background: -webkit-linear-gradient(top, @global-background, darken(@global-background, 3%));
+    background: linear-gradient(to bottom, @global-background, darken(@global-background, 3%));
+    box-shadow: none;
+    text-shadow: 0 1px 0 @global-background;
+}
+
+.wk-slideshow-tabsbar .nav li,
+.wk-slideshow-tabsbar .nav-center .nav li:first-child,
+.wk-slideshow-tabsbar .nav-right li  { border-color: @global-border; }
+.wk-slideshow-tabsbar .nav span,
+.wk-slideshow-tabsbar .nav-center .nav li:first-child span,
+.wk-slideshow-tabsbar .nav-right span  { border-color: @global-background; }
+
+.wk-slideshow-tabs .nav li:hover,
+.wk-slideshow-tabsbar .nav li:hover { background: darken(@global-background, 3%); }
+.wk-slideshow-tabs .nav li.active,
+.wk-slideshow-tabsbar .nav li.active { background: @global-background; }
+
+/* Content */
+.wk-slideshow-tabs .slides-container,
+.wk-slideshow-tabsbar .slides-container {
+    border-color: @global-border;
+    background: @global-background;
+}
+
+/*
+ * Widgetkit Slideshow: List Style
+ */
+
+.wk-slideshow-list > div,
+.wk-slideshow-list .nav li.active {
+    border-color: @global-border;
+    background: @global-background;
+}
+
+.wk-slideshow-list .nav {
+    border-top-width: 0;
+    border-color: @global-border;
+    background: darken(@global-background, 3%);
+    background: -webkit-linear-gradient(left, @global-background, darken(@global-background, 3%));
+    background: linear-gradient(to right, @global-background, darken(@global-background, 3%));
+}
+
+/*
+ * Widgetkit Gallery: Simple Style
+ */
+
+.wk-slideshow-inside .nav li {background: @global-background; }
+
+/*
+ * Widgetkit Accordion: Default Style
+ */
+
+.wk-accordion-default .toggler {
+    border-color: @global-border;
+    background: darken(@global-background, 3%);
+    background: -webkit-linear-gradient(top, @global-background, darken(@global-background, 3%));
+    background: linear-gradient(to bottom, @global-background, darken(@global-background, 3%));
+    box-shadow: none;
+    text-shadow: 0 1px 0 @global-background;
+}

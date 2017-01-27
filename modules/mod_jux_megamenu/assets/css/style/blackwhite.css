@@ -1,0 +1,208 @@
+/**
+ * @version		$Id$
+ * @author		JoomlaUX!
+ * @package		Joomla.Site
+ * @subpackage	mod_jux_megamenu
+ * @copyright	Copyright (C) 2008 - 2013 by JoomlaUX. All rights reserved.
+ * @license		http://www.gnu.org/licenses/gpl.html GNU/GPL version 3
+*/
+
+#js-mainnav.megamenu.blackwhite { 
+    border: 1px solid #000000;
+	border-bottom: none;
+	background-color: #3d3d3d;
+	background: #212121 url(../images/black2_bkg.png) top left repeat-x;
+	background: -webkit-gradient(linear, left top, left bottom, from(#3d3d3d), to(#212121));
+	background: -webkit-linear-gradient(top, #3d3d3d, #212121);
+	background: -moz-linear-gradient(top, #3d3d3d, #212121);
+	background: -ms-linear-gradient(top, #3d3d3d, #212121);
+	background: -o-linear-gradient(top, #3d3d3d, #212121);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
+	-moz-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
+	box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
+}
+
+/* lv - 0
+-----------------------------------*/
+/* Styling ---*/
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega span.mega,
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega a.mega,
+#js-mainnav.megamenu.blackwhite .megaMenuToggle{ 
+    font-size: 12px;
+	color: #bfbfbf;
+	padding: 12px 8px;
+	font-weight: bold;
+	border-left: 1px solid #000000;
+	-webkit-box-shadow: inset 1px 0px 0px 0px rgba(255, 255, 255, 0.1);
+	-moz-box-shadow: inset 1px 0px 0px 0px rgba(255, 255, 255, 0.1);
+	box-shadow: inset 1px 0px 0px 0px rgba(255, 255, 255, 0.1);
+}
+
+#js-mainnav.megamenu.blackwhite ul.level0 li:hover,
+#js-mainnav.megamenu.blackwhite ul.level0 li.active,
+#js-mainnav.megamenu.blackwhite ul.level0 li.over,
+#js-mainnav.megamenu.blackwhite ul.level0 li.haschild-over {
+	background-color: #0d0d0d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#0d0d0d), to(#1f1f1f));
+	background: -webkit-linear-gradient(top, #0d0d0d, #1f1f1f);
+	background: -moz-linear-gradient(top, #0d0d0d, #1f1f1f);
+	background: -ms-linear-gradient(top, #0d0d0d, #1f1f1f);
+	background: -o-linear-gradient(top, #0d0d0d, #1f1f1f);
+	-webkit-box-shadow: inset 1px 1px 0px 0px rgba(255, 255, 255, 0.1);
+	-moz-box-shadow: inset 1px 1px 0px 0px rgba(255, 255, 255, 0.1);
+	box-shadow: inset 1px 1px 0px 0px rgba(255, 255, 255, 0.1);
+}
+
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega:hover > span.mega,
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega:hover > a.mega,
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega span.mega.over,
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega a.mega.active,
+#js-mainnav.megamenu.blackwhite ul.level0 li.mega a.mega.over {
+	color: #efefef !important;
+	border-bottom-color: transparent !important;
+}
+
+#js-mainnav.megamenu.blackwhite ul.level0 li.haschild a.mega span.menu-desc,
+#js-mainnav.megamenu.blackwhite ul.level0 li.haschild-over a.mega span.menu-desc {
+	/*padding-left: 0;*/
+}
+
+/* Childcontent */
+#js-mainnav.megamenu.blackwhite .childcontent {
+
+}
+
+#js-mainnav.megamenu.blackwhite ul.level0 ul.megamenu {
+	margin: 0;
+}
+
+/* Layout ---*/
+
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega { border: 0 none; }
+
+#js-mainnav.megamenu.blackwhite ul.level1 li.first {  }
+
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega span.mega,
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega a.mega {
+	margin: 0px;
+	padding: 6px 20px 6px 15px;
+	border: 0;
+	color: #888888;
+	font-size: 12px;
+	font-weight: normal;
+	text-shadow: 0px 1px 1px #ffffff;
+	background-color: transparent;
+}
+
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega a.mega span.menu-title { background: none; padding: 0; }
+
+#js-mainnav.megamenu.blackwhite ul.level1 li:hover,
+#js-mainnav.megamenu.blackwhite ul.level1 li.active,
+#js-mainnav.megamenu.blackwhite ul.level1 li.over,
+#js-mainnav.megamenu.blackwhite ul.level1 li.haschild-over {
+	background: none;
+}
+
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega:hover > a.mega,
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega:hover > span.mega,
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega span.mega,
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega a.mega.active,
+#js-mainnav.megamenu.blackwhite ul.level1 li.mega a.mega.over {
+	color: #000000 !important;
+}
+
+#js-mainnav.megamenu.blackwhite ul.level1 li.haschild,
+#js-mainnav.megamenu.blackwhite ul.level1 li.haschild-over {
+	background-image: url(../../images/arrow.png);
+	background-repeat: no-repeat;
+	background-position: 95% center;
+	padding: 0;
+}
+
+/* CHILD CONTENT
+-----------------------------------*/
+
+#js-mainnav.megamenu.blackwhite ul.level0 > .childcontent-inner {
+	-webkit-box-shadow: 1px 1px 1px #dddddd;
+	-moz-box-shadow: 1px 1px 1px #dddddd;
+	box-shadow: 1px 1px 1px #dddddd;
+}
+
+#js-mainnav.megamenu.blackwhite .childcontent-inner {
+	border: 1px solid transparent;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-color: #e0e0e0;
+	color: #888888;
+	text-shadow: 0px 1px 1px #ffffff;
+	background-color: #f9f9f9;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f9f9f9), to(#fefefe));
+	background: -webkit-linear-gradient(top, #f9f9f9, #fefefe);
+	background: -moz-linear-gradient(top, #f9f9f9, #fefefe);
+	background: -ms-linear-gradient(top, #f9f9f9, #fefefe);
+	background: -o-linear-gradient(top, #f9f9f9, #fefefe);
+}
+
+#js-mainnav.megamenu.blackwhite .childcontent-inner .group ul li.active {
+
+}
+
+#js-mainnav.megamenu.blackwhite .childcontent .group h3 {
+	background: none;
+	color: #777777;
+}
+
+#js-mainnav.megamenu.blackwhite .childcontent .moduletable {
+	padding: 0 10px;
+}
+
+#js-mainnav.megamenu.blackwhite .childcontent .js-moduletable a:hover,
+#js-mainnav.megamenu.blackwhite .childcontent .js-moduletable a:focus,
+#js-mainnav.megamenu.blackwhite .childcontent .js-moduletable a:active {
+	color: #fff;
+	text-decoration: none;
+	border-bottom: 1px solid #fff;
+}
+
+/* Grouped --- */
+#js-mainnav.megamenu.blackwhite .group-title {
+
+}
+
+#js-mainnav.megamenu.blackwhite .group-title a.group {
+	/*
+	padding-bottom: .4em;
+	border-bottom: 1px dotted #e9e9e9;
+	*/
+}
+
+#js-mainnav.megamenu.blackwhite .group-title .menu-title {
+	color: #777777;
+	font-size: 12px;
+	font-weight: bold;
+	text-shadow: 0px 1px 1px #ffffff;
+	/*margin-bottom: 0.6em;*/
+}
+
+#js-mainnav.megamenu.blackwhite .group-content .menu-desc,
+#js-mainnav.megamenu.blackwhite .group-title .menu-desc {
+	font-size: 9px;
+	color: #bbbbbb;
+	text-transform: uppercase;
+}
+
+#js-mainnav.megamenu.blackwhite span.menu-desc {
+	padding: 0;
+}
+
+#js-mainnav.megamenu.blackwhite li.mega.group-divison {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	border: 1px dotted #e9e9e9 !important;
+}

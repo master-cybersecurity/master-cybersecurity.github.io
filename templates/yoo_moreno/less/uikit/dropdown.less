@@ -1,0 +1,104 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+//
+// Component: Dropdown
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@dropdown-z-index:                              (@global-z-index + 20);
+@dropdown-padding:                              20px;
+@dropdown-background:                           @global-dark-background;
+@dropdown-color:                                @global-color;
+@dropdown-divider-border:                       @global-border;
+
+@dropdown-small-padding:                        10px;
+
+@dropdown-navbar-background:                    @global-primary-background;
+@dropdown-navbar-color:                         lighten(@global-link-color, 30%);
+@dropdown-navbar-animation:                     uk-fade-scale-02;
+
+
+// Component
+// ========================================================================
+
+.hook-dropdown() {}
+
+
+// Modifier: `uk-dropdown-navbar`
+// ========================================================================
+
+.hook-dropdown-navbar() {
+    box-shadow: inset 0 -8px 16px -4px @global-primary-box-shadow;
+    text-shadow: 0 1px 1px @global-primary-text-shadow;
+
+    .uk-panel a {
+        color: darken(@global-primary-background, 30%);
+
+        &:hover { color: darken(@global-primary-background, 40%); }
+    }
+
+    .uk-form select,
+    .uk-form textarea,
+    .uk-form input[type="text"],
+    .uk-form input[type="password"],
+    .uk-form input[type="datetime"],
+    .uk-form input[type="datetime-local"],
+    .uk-form input[type="date"],
+    .uk-form input[type="month"],
+    .uk-form input[type="time"],
+    .uk-form input[type="week"],
+    .uk-form input[type="number"],
+    .uk-form input[type="email"],
+    .uk-form input[type="url"],
+    .uk-form input[type="search"],
+    .uk-form input[type="tel"],
+    .uk-form input[type="color"] {
+        color: darken(@global-primary-background, 30%) !important;
+        background: rgba(255,255,255,0.75);
+        box-shadow: 0 1px 0 rgba(0,0,0,0.05);
+
+        &:focus {
+            color: darken(@global-primary-background, 40%) !important;
+            background: rgba(255,255,255,1);
+            box-shadow: 0 1px 1px rgba(0,0,0,0.13);
+        }
+    }
+
+    .uk-form :-ms-input-placeholder { color: @global-primary-background !important; } /* 1. */
+    .uk-form ::-moz-placeholder { color: @global-primary-background !important; }
+    .uk-form ::-webkit-input-placeholder { color: @global-primary-background !important; }
+
+    .uk-button {
+        background: @global-contrast-color;
+        box-shadow: 0 1px 1px @global-primary-box-shadow;
+        color: @global-primary-background;
+        text-shadow: none;
+
+        &:hover {
+            background: darken(desaturate(@global-primary-background, 5%), 30%);
+            box-shadow: 0 1px 1px @global-primary-box-shadow;
+            color: @global-contrast-color;
+            text-shadow: none;
+        }
+    }
+
+    a {
+        color: lighten(@global-primary-background, 40%);
+
+        &:hover { color: @global-contrast-color; }
+    }
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-dropdown-misc() {
+
+    .uk-dropdown .uk-nav { margin: -@dropdown-padding / 2; }
+
+}

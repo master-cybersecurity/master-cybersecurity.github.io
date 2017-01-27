@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.6.0" client="site" method="upgrade">
+	<name>VTEM Fancy Menu</name>
+	<author>Nguyen Van Tuyen</author>
+	<creationDate>15/07/2010</creationDate>
+	<copyright>Copyright (C) 2011 VTEM. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>tuyen0110@gmail.com</authorEmail>
+	<authorUrl>www.vtem.net</authorUrl>
+	<version>1.2</version>
+	<description>MOD_VTEM_FANCY_MENU_DESC</description>
+    <files>
+        <filename module="mod_vtem_fancymenu">mod_vtem_fancymenu.php</filename>
+        <filename>helper.php</filename>
+        <filename>index.html</filename>
+        <folder>styles</folder>
+        <folder>tmpl</folder>
+    </files>
+	<languages>
+		<language tag="en-GB">language/en-GB.mod_vtem_fancymenu.ini</language>
+	</languages>
+	<config>
+	 <fields name="params">      
+	  <fieldset name="basic">
+		    <field name="menutype" type="menu" default="mainmenu" label="MOD_VTEM_FANCY_MENU_FIELD_MENUNAME_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_MENUNAME_DESC" />
+			<field name="startLevel" type="text" default="0" size="5" label="MOD_VTEM_FANCY_MENU_FIELD_STARTLEVEL_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_STARTLEVEL_DESC" />
+	        <field name="endLevel" type="text" default="10" size="5" label="MOD_VTEM_FANCY_MENU_FIELD_ENDLEVEL_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_ENDLEVEL_DESC" />
+		    <field name="modposition" type="radio" default="left" label="MOD_VTEM_FANCY_MENU_FIELD_MODPOSITION_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_MODPOSITION_DESC">
+				<option value="left">Left</option>
+				<option value="right">Right</option>
+            </field>
+			<field name="mouseEvent" type="radio" default="hover" label="MOD_VTEM_FANCY_MENU_FIELD_EVENT_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_EVENT_DESC">
+				<option value="click">MOD_VTEM_FANCY_MENU_FIELD_EVENTCLICK_LABEL</option>
+				<option value="hover">MOD_VTEM_FANCY_MENU_FIELD_EVENTHOVER_LABEL</option>
+			</field>
+			<field name="modwidth" type="text" default="200px" size="5" label="MOD_VTEM_FANCY_MENU_FIELD_WIDTH_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_WIDTH_DESC" />     
+			<field name="sub_width" type="text" default="220px" label="MOD_VTEM_FANCY_MENU_FIELD_SUBWIDTH_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_SUBWIDTH_DESC" />
+			<field name="Effect Options" type="spacer" />
+			<field name="duration" type="text" default="500" label="MOD_VTEM_FANCY_MENU_FIELD_DURATION_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_DURATION_DESC" />
+			<field name="transition" type="radio" default="fade" label="MOD_VTEM_FANCY_MENU_FIELD_TRANSITION_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_TRANSITION_DESC">
+				<option value="fade">Fade</option>
+				<option value="slide">Slide</option>
+			</field>
+			<field name="background" type="color" default="#00BB7B" label="MOD_VTEM_FANCY_MENU_FIELD_BACKGROUND_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_BACKGROUND_DESC" />
+		    <field name="textcolor" type="color" default="#FFFFFF" label="MOD_VTEM_FANCY_MENU_FIELD_TEXTCOLOR_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_TEXTCOLOR_DESC" />
+			<field name="sub_background" type="color" default="#FFFFFF" label="MOD_VTEM_FANCY_MENU_FIELD_SUBBACKGROUND_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_SUBBACKGROUND_DESC" />
+			<field name="sub_textcolor" type="color" default="#333333" label="MOD_VTEM_FANCY_MENU_FIELD_SUBTEXTCOLOR_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_SUBTEXTCOLOR_DESC" />
+	 </fieldset>
+	 <fieldset name="advanced">
+	 		<field name="headertext" type="text" default="Panel" label="MOD_VTEM_FANCY_MENU_FIELD_HEADERTEXT_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_HEADERTEXT_DESC"/>
+			<field name="jquery" type="radio" default="1" label="MOD_VTEM_FANCY_MENU_FIELD_USEJQUERY_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_USEJQUERY_DESC">
+				<option value="1">Auto</option>
+				<option value="2">JYES</option>
+				<option value="0">JNO</option>
+            </field>
+			<field name="css" type="textarea" rows="4" cols="40" default="" label="MOD_VTEM_FANCY_MENU_FIELD_MODCSS_LABEL" description="MOD_VTEM_FANCY_MENU_FIELD_MODCSS_DESC"/>
+            <field name="moduleclass_sfx" type="text" label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL" description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+			<field name="cache" type="list" default="0" label="COM_MODULES_FIELD_CACHING_LABEL" description="COM_MODULES_FIELD_CACHING_DESC">
+					<option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+			</field>
+		  </fieldset>
+		</fields>
+	</config>
+</extension>

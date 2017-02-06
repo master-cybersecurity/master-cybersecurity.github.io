@@ -1,0 +1,9 @@
+<section class="page-header">
+    <h1 class="project-name"><a href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a></h1>
+  <h2 class="project-tagline">{{ site.tagline }}</h2>
+  {% for p in site.pages %}
+  {% if p.title != 'Home' %}
+  <a class="btn" href="{{ p.url | prepend: site.baseurl }}#main-content" class="btn">{{ p.title }}</a>
+  {% endif %}
+  {% endfor %}
+</section>

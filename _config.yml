@@ -21,8 +21,7 @@ sass:
 
 
 
-exclude:
-- README.md
+exclude: [ 'config.ru', 'README.md', 'vendor']
 
 
 safe: true

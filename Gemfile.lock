@@ -47,7 +47,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll
+  jekyll (~> 3.0)
   rack-jekyll
 
 RUBY VERSION

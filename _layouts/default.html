@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>{{ page.title }} - {{ site.title }}</title>
 
-        <link rel="stylesheet" type="text/css" href="{{ '/css/style.css' | prepend: site.baseurl }}" >
+        <link rel="stylesheet" type="text/css" href="{{ '/css/bootstrap.min.css' | prepend: site.baseurl }}" >
 
     </head>
         <body>
@@ -17,14 +17,13 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#">{{ site.title }}</a>
+                        <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
                     </div>
                     <div id="navbar" class="collapse navbar-collapse">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="{{ site.baseurl }}">Home</a></li>
                             {% for p in site.pages %}
                             {% if p.title != "Home" %}
-                            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+                            <li {% if page.url == p.url %}class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
                             {% endif %}
                             {% endfor %}
                         </ul>

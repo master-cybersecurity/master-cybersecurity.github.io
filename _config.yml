@@ -1,7 +1,7 @@
 ###########
 # site.url, site.title
 
-title: 'Master Cyber Security'
+title: 'MCSDP'
 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
@@ -19,7 +19,7 @@ sass:
   sass_dir: css
   style:    expanded
 
-
+permalink: pretty
 
 exclude: [ 'config.ru', 'README.md', 'vendor']
 

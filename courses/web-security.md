@@ -7,7 +7,7 @@
 * Practical knowledge of Web-based attacks 
 * Practical knowledge of code-based Vulnerability Detection
 
-## Requisiti
+## Requirements
 
 * HTTP Protocol
     * Client-Server Model
@@ -20,7 +20,7 @@
 * Client-Side scripting
     * JavaScript (basic knowledge)
 
-## Argomenti
+## Topics
 
 ### Technical
 * Cross-Site Scripting (XSS)

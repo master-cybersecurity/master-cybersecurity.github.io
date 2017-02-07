@@ -1,6 +1,13 @@
 # Web Security
 *24h*
 
+
+## Risultati attesi
+* Conoscenza dei più comuni attacchi Web
+* Abilità nell'utilizzo di strumenti per ricerca di vulnerabilità
+* Abilità nell'utilizzo di strumenti per implementazione di attacchi
+* Abilità nell'individuazione di vulnerabilità in fase di sviluppo del software
+
 ## Requisiti
 
 * Protocollo HTTP
@@ -39,9 +46,3 @@
 * Implementazione pratica di attacchi Web
 * Sviluppo di *patch* di sicurezza a codice non sicuro
 * Ricerca di vulnerabilità in ambiente simulato
-
-## Risultati attesi
-* Conoscenza dei più comuni attacchi Web
-* Abilità nell'utilizzo di strumenti per ricerca di vulnerabilità
-* Abilità nell'utilizzo di strumenti per implementazione di attacchi
-* Abilità nell'individuazione di vulnerabilità in fase di sviluppo del software

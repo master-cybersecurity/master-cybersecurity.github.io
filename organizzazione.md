@@ -2,7 +2,6 @@
 layout: page
 title: Organizzazione
 ---
-# Organizzazione
 
 Il Master è attivato per l’anno accademico 2015/2016 presso il [Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi (DIBRIS)](http://www.dibris.unige.it/) e il [Dipartimento di Ingegneria Navale, Elettrica, Elettronica e delle Telecomunicazioni (DITEN)](http://www.diten.unige.it/), dell'[Università degli Studi di Genova](http://www.diten.unige.it/) in collaborazione con l'[Istituto Superiore di Studi in Tecnologie dell'Informazione e delle Telecomunicazioni (ISICT)](http://www.isict.it) e la [Fondazione Ansaldo]. 
 

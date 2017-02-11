@@ -17,7 +17,7 @@ Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
 ### Contributo a carico dei partecipanti
 
 * **€ 2.718,00 (inclusa la tassa di iscrizione)** per inoccupati, disoccupati o occupati con forma di lavoro
-flessibile, da pagare al momento dell’iscrizione.
+flessibile, da pagare al momento dell’iscrizione. 
 * **€ 6.718,00 (inclusa la tassa di iscrizione)** per tutti gli altri, **suddivise in tre rate**.
 
 

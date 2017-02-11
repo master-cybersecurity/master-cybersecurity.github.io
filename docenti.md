@@ -1,4 +1,7 @@
-# Docenti
+---
+layout: page
+title: Docenti
+---
 
 ### [Maurizio Aiello](/bio/Maurizio_Aiello.pdf) 
 ![Maurizio Aiello](/photo/Maurizio_Aiello.jpg) ![CNR](/logo/small_cnr.gif)

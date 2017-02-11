@@ -12,7 +12,7 @@ Il programma è articolato nei seguenti moduli didattici:
 
 1. Introduction to Cyber Security
 2. Cryptographic Protocols
-3. IInformation Security Management and Legals
+3. Information Security Management and Legals
 4. Computer security
 5. Network security
 
@@ -35,3 +35,8 @@ Il programma è articolato nei seguenti moduli didattici:
 * Indirizzo 2: Critical Infrastructure Protection and Security Assurance						
  
 Sono previsti percorsi personalizzati per l’eventuale recupero di conoscenze di base relative al settore ICT e rendere omogenee le conoscenze di base nell’elettronica, l’informatica e le telecomunicazioni a seconda delle esigenze dei singoli partecipanti.  Verrà reso disponibile materiale didattico da discutere singolarmente con un docente di ogni settore a cui chiedere chiarimenti e spiegazioni.
+
+## PIANO DIDATTICO
+
+![Piano Didattico](/offerta.png)
+

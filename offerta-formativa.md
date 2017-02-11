@@ -38,5 +38,5 @@ Sono previsti percorsi personalizzati per l’eventuale recupero di conoscenze d
 
 ## PIANO DIDATTICO
 
-![Piano Didattico](/offerta.png)
+![Piano Didattico](/offerta.PNG)
 

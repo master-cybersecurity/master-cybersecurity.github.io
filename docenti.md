@@ -18,7 +18,7 @@ title: Docenti
 ![Guido Bertoni](/photo/Guido_Bertoni.jpg)![ST](/logo/small-life_augmented.gif)
 
 ### [Marco Biancardi](/bio/Marco_Biancardi.pdf) 
-![Marco Biancardi](/photo/MArcoBiancardi.jpg)![DIBRIS](/logo/small-abb.gif)
+![Marco Biancardi](/photo/MarcoBiancardi.jpg)![DIBRIS](/logo/small-abb.gif)
 
 ### [Susanna Buson](/bio/Susanna_Buson.pdf) 
 ![Susanna Buson](/photo/Susanna_Buson.jpg)

@@ -1,4 +1,7 @@
-# Modalità di Accesso
+---
+layout: page
+title: Modalità di Accesso
+---
 
 Le modalità di accesso son odescritte nel **D.R. 406 del 10.02.2017**.
 

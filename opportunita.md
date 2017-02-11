@@ -1,4 +1,7 @@
-# Opportunità per le Aziende
+---
+layout: page
+title: Opportunità per le Aziende
+---
 
 * Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master di usufruire di un massimo di **cinque borse** per coprire i costi del Master stesso, accedendo al [Bando INPS](http://www.inps.it/docallegati/Mig/Welfare/Bando_Master_I_e_II_livello_e_Corsi_Universitari_di_Perfezionamento.pdf).
 

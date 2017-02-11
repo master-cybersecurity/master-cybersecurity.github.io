@@ -1,4 +1,7 @@
-# Partners
+---
+layout: page
+title: Partners
+---
 
 [![Selex ES](/logo/sponsor/selex-es-q.gif)](http://www.selex-es.com/it) [![IBM](/logo/sponsor/ibm-big.gif)](http://www.ibm.com/it-it/) [![DITEN](/logo/sponsor/diten-q.gif)](http://www.diten.unige.it/index.php?lang=it) [![DIBRIS](/logo/sponsor/dibris-q.gif)](http://www.dibris.unige.it/) [![CNR](/logo/sponsor/cnr-q.gif)](http://www.netsec.ieiit.cnr.it/)
  

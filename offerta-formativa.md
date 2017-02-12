@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Offerta Formativa
+order: 2
 ---
 
 Il Master si contraddistingue per un approccio innovativo alla formazione, che coniuga il rigore e la sistematicità della docenza  accademica con l'esperienza sul campo e lil pragmatismo della docenza aziendale e professionale.

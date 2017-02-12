@@ -82,7 +82,10 @@ order: 3
 ![Marco Scarito](/photo/MarcoScarito.jpg)![RealityNet](/logo/small_reality_net.gif)
 
 ### [Roberto Surlinelli](/bio/Roberto_Surlinelli.pdf) 
-![Gianluca Papaleo](/photo/Roberto_Surlinelli.jpg)![RealityNet](/logo/polizia_di_stato.gif)
+![Roberto Surlinelli](/photo/Roberto_Surlinelli.jpg)![RealityNet](/logo/polizia_di_stato.gif)
+
+### [Luca Verderame](/bio/Luca_Verderame.pdf) 
+![Luca Verderame](/photo/Luca_Verderame.png)![Talos](/logo/small-talos.png)
 
 ### [Rodolfo Zunino](/bio/Rodolfo_Zunino.pdf) 
 ![Gianluca Papaleo](/photo/RodolfoZunino.jpg)![DIBRIS](/logo/small_diten_dibris.gif)

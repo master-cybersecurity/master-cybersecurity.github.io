@@ -42,4 +42,5 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 * **Stage e perfezionamento tesi:** 150
 * **CFU:** 60
 
-Maggiori informazioni sulle modalità di accesso sono disponibili [qui](/modalita).
+### Modalità di Accesso
+Ulteriori informazioni sulle **Modalità di Accesso** sono disponibili [qui](/modalita).

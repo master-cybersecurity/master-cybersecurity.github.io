@@ -13,7 +13,7 @@ order: 5
 [![Tiger](/logo/sponsor/tiger-security.gif)](https://www.tigersecurity.pro/) [![AnsaldoSTS](/logo/sponsor/ansaldo-sts.gif)](http://www.ansaldo-sts.com/it/index) [![Finmeccanica](/logo/sponsor/finmeccanicabig.gif)](http://www.finmeccanica.com/) 
 
 [![AnsaldoEnergia](/logo/sponsor/AEN.gif)](http://www.ansaldoenergia.it/)
-[![Talos](/logo/sponsor/talos-q.png)](https://www.talos-security.com/) [![Intellium](/logo/sponsor/intellium-q.png)](http://www.intelliumgroup.com/)   
+[![Talos](/logo/sponsor/talos-q.png)](https://www.talos-security.com/) [![Intellium](/logo/sponsor/intellium-q.png)](http://www.intelliumgroup.com/) [![Deloitte](/logo/sponsor/deloitte-q.png)](https://www2.deloitte.com/it/it.html)     
 
 
 

@@ -4,7 +4,7 @@ title: Modalità di Accesso
 order: 6
 ---
 
-Le modalità di accesso sono descritte nel **D.R. 406 del 10.02.2017**.
+Le modalità di accesso sono descritte nel [**D.R. 406 del 10.02.2017**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/D.R.%20406%20del%2010.02.2017%20BANDO%20F.TO_.pdf).
 
 La domanda di ammissione al corso deve essere presentata mediante la procedura on-line disponibile
 all’indirizzo [https://servizionline.unige.it/studenti/post-laurea/master](https://servizionline.unige.it/studenti/post-laurea/master), entro le ore **12:00 del giorno 8 Marzo 2017**.

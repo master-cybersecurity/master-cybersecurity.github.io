@@ -30,7 +30,7 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 
 ### Bando e Scadenze
 
-* Le modalità di accesso sono descritte nel **D.R. 406 del 10.02.2017**.
+* Le modalità di accesso sono descritte nel [**D.R. 406 del 10.02.2017**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/D.R.%20406%20del%2010.02.2017%20BANDO%20F.TO_.pdf).
 * La scadenza per la presentazione della domanda telematica è l'**8 Marzo, 2017, entro le ore 12:00**.
 
 ### Altre Informazioni

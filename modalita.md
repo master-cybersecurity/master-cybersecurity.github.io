@@ -26,5 +26,5 @@ L'iscrizione va perfezionata entro il **20 Marzo 2017**.
 ### Contributi a carico dei partecipanti
 
 * **€ 2.718,00 (inclusa la tassa di iscrizione)** per inoccupati, disoccupati o occupati con forma di lavoro
-flessibile, da pagare al momento dell’iscrizione
+flessibile, da pagare al momento dell’iscrizione.
 * **€ 6.718,00 (inclusa la tassa di iscrizione)** per tutti gli altri, **suddivise in tre rate**.

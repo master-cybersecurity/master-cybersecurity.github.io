@@ -7,21 +7,21 @@ order: 6
 Le modalità di accesso sono descritte nel **D.R. 406 del 10.02.2017**.
 
 La domanda di ammissione al corso deve essere presentata mediante la procedura on-line disponibile
-all’indirizzo [https://servizionline.unige.it/studenti/post-laurea/master](https://servizionline.unige.it/studenti/post-laurea/master), entro le ore **12:00 del giorno 8 marzo 2017**.
+all’indirizzo [https://servizionline.unige.it/studenti/post-laurea/master](https://servizionline.unige.it/studenti/post-laurea/master), entro le ore **12:00 del giorno 8 Marzo 2017**.
 
 ### Prove di Ammissione 
 
 La prova di ammissione avrà luogo presso il Diten – Dipartimento di Ingegneria Navale, Elettrica,
-Elettronica e delle Telecomunicazioni, Via all’Opera Pia, 11/A – 16145 Genova, il giorno **13 marzo 2017**, secondo il calendario che verrà pubblicato in questa pagina.
+Elettronica e delle Telecomunicazioni, Via all’Opera Pia, 11/A – 16145 Genova, il giorno **13 Marzo 2017**, secondo il calendario che verrà pubblicato in questa pagina.
 
 La graduatoria degli ammessi sarà affissa presso la sede degli esami e resa disponibile su questa pagina.
 
 
 ### Perfezionamento dell'Iscrizione 
-L'iscrizione va perfezionata entro il **20/02/2017**.
+L'iscrizione va perfezionata entro il **20 Marzo 2017**.
 
 ### Inizio corso
-**Giovedì 30 marzo 2017, ore 14**, Salone Nobile Villa Cambiaso, Presidenza Scuola Politecnica.
+**Giovedì 30 Marzo 2017, ore 14**, Salone Nobile Villa Cambiaso, Presidenza Scuola Politecnica.
 
 ### Contributi a carico dei partecipanti
 

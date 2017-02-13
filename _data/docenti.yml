@@ -138,13 +138,6 @@
 
 - name: Antonio Rebora
   logo: Ansaldo_Energia_small.jpg
-  
-- name: Franco Prosperi
-  logo: small-consiq.png
-  foto: Franco_Prosperi.jpg
-  
-- name: Romano Castagnara
-  logo: small-consiq.png
 
 - name: Stefano Martinazzo
   logo: small-axerta.png	
@@ -154,3 +147,10 @@
   
 - name: Emanuele Gentili
   logo: small-tigersecurity.png
+  
+- name: Franco Prosperi
+  logo: small-consiq.png
+  foto: Franco_Prosperi.jpg
+  
+- name: Romano Castagnara
+  logo: small-consiq.png

@@ -29,7 +29,7 @@ Presidente: Prof. Alessandro Armando
 
 La segreteria organizzativa e amministrativo-contabile e la funzione di sportello informativo del Master è svolta dal 
 
-DITEN, 
+DITEN   
 Via all'Opera Pia, 11A, 16145 Genova  
 16145 Genova,   
 tel. +39 010 353 2733  

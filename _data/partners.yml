@@ -62,10 +62,6 @@
   img:  "AEN.gif"
   url:  "http://www.ansaldoenergia.it/"
 
-- name: "Intellium"
-  img:  "intellium-q.png"
-  url:  "http://www.intelliumgroup.com/"
-
 - name: "Deloitte"
   img:  "deloitte-q.png"
   url:  "https://www2.deloitte.com/it/it.html"

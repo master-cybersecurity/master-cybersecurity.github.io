@@ -78,4 +78,7 @@
   img:  "deloitte-q.png"
   url:  "https://www2.deloitte.com/it/it.html"
 
+- name: "Vodafone"
+  img:  "vodafone_logo.jpg"
+  url:  "http://www.vodafone.it/"
 

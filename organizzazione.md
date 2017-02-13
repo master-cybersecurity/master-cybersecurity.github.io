@@ -29,10 +29,10 @@ Presidente: Prof. Alessandro Armando
 
 La segreteria organizzativa e amministrativo-contabile e la funzione di sportello informativo del Master è svolta dal 
 
-DIBRIS  
-Via all’Opera Pia 13,    
+DITEN, 
+Via all'Opera Pia, 11A, 16145 Genova  
 16145 Genova,   
-tel. +39 0103532983  
-fax  +39 0103532948  
-e-mail: [segreteria@isict.it](mailto:segreteria@isict.it), [dibris@dibris.unige.it](mailtodibris@dibris.unige.it)  
-indirizzo internet: [www.dibris.unige.it](http://www.dibris.unige.it)
+tel. +39 010 353 2733  
+fax  +39 010 353 2700  
+e-mail: [segreteria@isict.it](mailto:segreteria@isict.it), [diten@diten.unige.it](mailto:diten@diten.unige.it),  
+Indirizzo internet: [www.diten.unige.it](http://www.diten.unige.it)

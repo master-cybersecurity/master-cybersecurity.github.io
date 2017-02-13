@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners
+title: Partner
 order: 5
 ---
 

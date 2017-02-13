@@ -62,10 +62,6 @@
   img:  "ansaldo-sts.gif"
   url:  "http://www.ansaldo-sts.com/it/index"
 
-- name: "Finmeccanica"
-  img:  "finmeccanicabig.gif"
-  url:  "http://www.finmeccanica.com"
-
 - name: "AnsaldoEnergia"
   img:  "AEN.gif"
   url:  "http://www.ansaldoenergia.it/"
@@ -81,4 +77,8 @@
 - name: "Vodafone"
   img:  "vodafone_logo.jpg"
   url:  "http://www.vodafone.it/"
+  
+- name: "Finmeccanica"
+  img:  "finmeccanicabig.gif"
+  url:  "http://www.finmeccanica.com"
 

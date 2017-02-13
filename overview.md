@@ -36,7 +36,7 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 ### Altre Informazioni
 
 * **Durata:** 12 mesi
-* **Periodo:** 30/3/2017-30/2/2018
+* **Periodo:** 30/3/2017-30/3/2018
 * **Orario:** Giovedi Pomeriggio, Venerdi, Sabato Mattina
 * **Attività didattica/laboratorio:** 428
 * **Stage e perfezionamento tesi:** 150

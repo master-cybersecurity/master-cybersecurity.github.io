@@ -58,10 +58,6 @@
   img:  "tiger-security.gif"
   url:  "https://www.tigersecurity.pro/"
 
-- name: "AnsaldoSTS"
-  img:  "ansaldo-sts.gif"
-  url:  "http://www.ansaldo-sts.com/it/index"
-
 - name: "AnsaldoEnergia"
   img:  "AEN.gif"
   url:  "http://www.ansaldoenergia.it/"
@@ -81,4 +77,8 @@
 - name: "Finmeccanica"
   img:  "finmeccanicabig.gif"
   url:  "http://www.finmeccanica.com"
+
+- name: "AnsaldoSTS"
+  img:  "ansaldo-sts.gif"
+  url:  "http://www.ansaldo-sts.com/it/index"
 

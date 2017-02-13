@@ -54,10 +54,6 @@
   img:  "reality-net-q2.gif"
   url:  "http://www.realitynet.it/"
 
-- name: "Fastweb"
-  img:  "Fastweb.gif"
-  url:  "http://www.fastwebnet.it/"
-
 - name: "Tiger"
   img:  "tiger-security.gif"
   url:  "https://www.tigersecurity.pro/"

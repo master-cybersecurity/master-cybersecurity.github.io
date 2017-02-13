@@ -15,7 +15,11 @@ order: 3
                 {{ docente.name }}
             {% endif %}
         </h3>
+        {% if docente.photo %}
         <img class="img-responsive center-block" src="{{docente.foto | prepend: '/photo/'}}"/>
+        {% else %}
+        <img class="img-responsive center-block" src="{{ 'placeholder.jpg' | prepend: '/photo/'}}"/>
+        {% endif %}
         {% if docente.logo %}
         <img class="img-responsive center-block" src="{{docente.logo | prepend: '/logo/'}}"/>
         {% endif %}

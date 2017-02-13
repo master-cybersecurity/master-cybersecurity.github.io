@@ -9,14 +9,12 @@
   bio:  /bio/Maurizio_Aiello.pdf
 
 - name: Elena Bassoli
-  logo: 
   foto: Elena_Bassoli.jpg
   bio:  /bio/Elena_Bassoli.pdf
 
 - name: Guido Bertoni
   logo: small-life_augmented.gif
   foto: Guido_Bertoni.jpg
-  bio:  
 
 - name: Marco Biancardi
   logo: small-abb.gif
@@ -24,7 +22,6 @@
   bio:  /bio/MarcoBiancardi.pdf
 
 - name: Susanna Buson
-  logo: 
   foto: Susanna_Buson.jpg
   bio:  /bio/Susanna_Buson.jpg
 
@@ -116,7 +113,6 @@
 - name: Gaetano Sanacore
   logo: Ansaldo_Energia_small.jpg
   foto: Gaetano_Sanacore_new.jpg
-  bio: 
 
 - name: Roberto Surlinelli
   logo: polizia_di_stato.gif
@@ -142,3 +138,15 @@
   logo: small_diten_dibris.gif
   foto: 
   bio: 
+
+- name: Antonio Rebora
+
+- name: Emanuele Gentili
+
+- name: Franco Prosperi
+
+- name: Romano Castagnara
+
+- name: Stefano Martinazzo
+
+- name: Stefano Lorenzi

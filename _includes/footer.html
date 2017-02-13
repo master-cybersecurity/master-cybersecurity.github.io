@@ -1,25 +1,7 @@
 <div class="row">
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/ibm-big.gif" alt="IBM"></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/diten-q.gif" alt="DITEN"></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/dibris-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/cnr-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/talos-q.png" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/ansaldo-sts.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/ABB-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/minded_security.png" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/life-augmented-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/poste-italiane-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/nis.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/aizoon-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/reality-net-q2.gif" alt="IBM"></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/Fastweb.gif" alt="DITEN"></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/tiger-security.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/fondazione-bruno-kessler-q.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/finmeccanicabig.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/AEN.gif" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/intellium-q.png" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/deloitte-q.png" alt=""></div>
-    <div class="col-xs-1"><img class="img-responsive center-block" src="/logo/sponsor/grupposigla-q.gif" alt=""></div>
+    {% for partner in site.data.partners %}
+    <div class="col-sm-1"><img class="img-responsive center-block" src="{{ partner.img | prepend: '/logo/sponsor/' }}" alt="{{ partner.name }}"></div>
+    {% endfor %}
 </div>
 
 <div class="row">

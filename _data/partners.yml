@@ -1,0 +1,85 @@
+- name: "IBM"
+  img:  "ibm-big.gif"
+  url:  "http://www.ibm.com/it-it/"
+
+- name: "DITEN"
+  img:  "diten-q.gif"
+  url:  "http://www.diten.unige.it/index.php?lang=it"
+
+- name: "DIBRIS"
+  img:  "dibris-q.gif"
+  url:  "http://www.dibris.unige.it/"
+
+- name: "CNR"
+  img:  "cnr-q.gif"
+  url:  "http://www.netsec.ieiit.cnr.it/"
+
+- name: "Talos"
+  img:  "talos-q.png"
+  url:  "https://www.talos-security.com/"
+
+- name: "FBK"
+  img:  "fondazione-bruno-kessler-q.gif"
+  url:  "http://www.fbk.eu/it/front-page"
+
+- name: "ABB"
+  img:  "ABB-q.gif"
+  url:  "http://www.abb.com/"
+
+- name: "Minded Security"
+  img:  "minded_security.png"
+  url:  "https://www.mindedsecurity.com"
+
+- name: "ST"
+  img:  "life-augmented-q.gif"
+  url:  "http://www.st.com/web/en/home.html"
+
+- name: "Poste Italiane"
+  img:  "poste-italiane-q.gif"
+  url:  "http://www.poste.it/"
+
+- name: "NIS"
+  img:  "nis.gif"
+  url:  "http://www.nispro.it/"
+
+- name: "Sigla"
+  img:  "grupposigla-q.gif"
+  url:  "http://www.grupposigla.it/"
+
+- name: "aizoOn"
+  img:  "aizoon-q.gif"
+  url:  "https://www.aizoongroup.com/home.aspx#intro"
+
+- name: "RealityNet"
+  img:  "reality-net-q2.gif"
+  url:  "http://www.realitynet.it/"
+
+- name: "Fastweb"
+  img:  "Fastweb.gif"
+  url:  "http://www.fastwebnet.it/"
+
+- name: "Tiger"
+  img:  "tiger-security.gif"
+  url:  "https://www.tigersecurity.pro/"
+
+- name: "AnsaldoSTS"
+  img:  "ansaldo-sts.gif"
+  url:  "http://www.ansaldo-sts.com/it/index"
+
+- name: "Finmeccanica"
+  img:  "finmeccanicabig.gif"
+  url:  "http://www.finmeccanica.com"
+
+- name: "AnsaldoEnergia"
+  img:  "AEN.gif"
+  url:  "http://www.ansaldoenergia.it/"
+
+- name: "Intellium"
+  img:  "intellium-q.png"
+  url:  "http://www.intelliumgroup.com/"
+
+- name: "Deloitte"
+  img:  "deloitte-q.png"
+  url:  "https://www2.deloitte.com/it/it.html"
+
+

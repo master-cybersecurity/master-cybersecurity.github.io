@@ -1,7 +1,9 @@
 <div class="row">
+    {% if page.title != "Partner" %}
     {% for partner in site.data.partners %}
     <div class="col-sm-1"><img class="img-responsive center-block" src="{{ partner.img | prepend: '/logo/sponsor/' }}" alt="{{ partner.name }}"></div>
     {% endfor %}
+    {% endif %}
 </div>
 
 <div class="row">

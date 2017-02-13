@@ -118,15 +118,15 @@
   foto: Roberto_Surlinelli.jpg
   bio: 	/bio/Roberto_Surlinelli.pdf
 
-- name: Luca Verderame
-  logo: small-talos.png
-  foto: Luca_Verderame.png
-  bio: 	/bio/Luca_Verderame.pdf
-
 - name: Rodolfo Zunino
   logo: small_diten_dibris.gif
   foto: RodolfoZunino.jpg
   bio: 	/bio/Rodolfo_Zunino.pdf
+
+- name: Luca Verderame
+  logo: small-talos.png
+  foto: Luca_Verderame.png
+  bio: 	/bio/Luca_Verderame.pdf
 
 - name: Simone Aonzo
   logo: small_diten_dibris.gif

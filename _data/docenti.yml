@@ -138,9 +138,6 @@
 
 - name: Antonio Rebora
   logo: Ansaldo_Energia_small.jpg
-
-- name: Emanuele Gentili
-  logo: small-tigersecurity.png
   
 - name: Franco Prosperi
   logo: small-consiq.png
@@ -154,3 +151,6 @@
 
 - name: Stefano Lorenzi
   logo: small-piaggioaerospace.png
+  
+- name: Emanuele Gentili
+  logo: small-tigersecurity.png

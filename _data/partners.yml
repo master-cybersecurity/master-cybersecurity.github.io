@@ -16,7 +16,7 @@
 
 - name: "Talos"
   img:  "talos-q.png"
-  url:  "https://www.talos-security.com/"
+  url:  "http://talos-security.com/"
 
 - name: "FBK"
   img:  "fondazione-bruno-kessler-q.gif"

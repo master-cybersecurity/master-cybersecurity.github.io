@@ -88,6 +88,6 @@ order: 3
 ![Luca Verderame](/photo/Luca_Verderame.png)![Talos](/logo/small-talos.png)
 
 ### [Rodolfo Zunino](/bio/Rodolfo_Zunino.pdf) 
-![Gianluca Papaleo](/photo/RodolfoZunino.jpg)![DIBRIS](/logo/small_diten_dibris.gif)
+![Rodolfo Zunino](/photo/RodolfoZunino.jpg)![DIBRIS](/logo/small_diten_dibris.gif)
 
 

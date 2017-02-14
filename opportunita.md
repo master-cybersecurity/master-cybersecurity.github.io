@@ -4,7 +4,7 @@ title: Opportunità per le Aziende
 order: 7
 ---
 
-* Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master di usufruire di un massimo di **cinque borse** per coprire i costi del Master stesso, accedendo al [Bando INPS](http://www.inps.it/docallegati/Mig/Welfare/Bando_Master_I_e_II_livello_e_Corsi_Universitari_di_Perfezionamento.pdf).
+* Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master di usufruire di un massimo di **cinque borse** per coprire i costi del Master stesso, accedendo al [Bando INPS](/bandi/INPS_Bando_Master_universitari_Executive_2016-2017_borse.pdf).
 
 * **Organizzazione didattica**: Per favorire l'alternanza lavoro in azienda-formazione in università, 
 l'Orario prevede lezioni al giovedì pomeriggio, al venerdì e al sabato mattina per 7 mesi. 

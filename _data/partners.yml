@@ -70,6 +70,10 @@
   img:  "vodafone_logo.jpg"
   url:  "http://www.vodafone.it/"
   
+- name: "Piaggio AeroSpace"
+  img:  "../../logo/small-piaggioaerospace.png"
+  url:  "http://www.piaggioaerospace.it/"
+
 - name: "Finmeccanica"
   img:  "finmeccanicabig.gif"
   url:  "http://www.finmeccanica.com"
@@ -77,4 +81,3 @@
 - name: "AnsaldoSTS"
   img:  "ansaldo-sts.gif"
   url:  "http://www.ansaldo-sts.com/it/index"
-

@@ -44,3 +44,5 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 
 ### Modalità di Accesso
 Ulteriori informazioni sulle **Modalità di Accesso** sono disponibili [qui](/modalita).
+
+È prevista anche la possibilità di partecipazione da parte di diplomati di Scuola Secondaria Superiore e la possibilità (sia per laureati, sia per diplomati) di frequentare singoli moduli scelti dal programma del Master, conseguendo uno specifico attestato. Le **Modalità di Accesso** al Corso di Formazione sono disponibili [qui](http://www.studenti.unige.it/postlaurea/corsiformazione/)

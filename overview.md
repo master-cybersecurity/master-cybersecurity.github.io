@@ -32,7 +32,7 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 
 * Le modalità di accesso al **Master** sono descritte nel [**D.R. 406 del 10.02.2017**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/D.R.%20406%20del%2010.02.2017%20BANDO%20F.TO_.pdf).
 * La scadenza per la presentazione della domanda telematica è l'**8 Marzo, 2017, entro le ore 12:00**.
-* Le modalità di accesso al **Corso di Formazione** sono descritte nel [**D.D. 455 del 14.02.2017**](http://www.studenti.unige.it/postlaurea/corsiformazione/).
+* Le modalità di accesso al **Corso di Formazione** sono descritte nel [**D.D. 455 del 14.02.2017**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/Decr.%20n.%20455%20c.f.%20cyber%20rettif%203%20firmato.pdf).
 
 ### Altre Informazioni
 
@@ -46,4 +46,4 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 ### Modalità di Accesso
 Ulteriori informazioni sulle **Modalità di Accesso** al Master sono disponibili [qui](/modalita).
 
-È prevista anche la possibilità di partecipazione da parte di diplomati di Scuola Secondaria Superiore e la possibilità (sia per laureati, sia per diplomati) di frequentare singoli moduli scelti dal programma del Master, conseguendo uno specifico attestato. Le **Modalità di Accesso** al Corso di Formazione sono disponibili [qui](http://www.studenti.unige.it/postlaurea/corsiformazione/)
+È prevista anche la possibilità di partecipazione da parte di diplomati di Scuola Secondaria Superiore e la possibilità (sia per laureati, sia per diplomati) di frequentare singoli moduli scelti dal programma del Master, conseguendo uno specifico attestato. Le **Modalità di Accesso** al Corso di Formazione sono disponibili [qui](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/Decr.%20n.%20455%20c.f.%20cyber%20rettif%203%20firmato.pdf)

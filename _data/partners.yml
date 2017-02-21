@@ -81,3 +81,7 @@
 - name: "AnsaldoSTS"
   img:  "ansaldo-sts.gif"
   url:  "http://www.ansaldo-sts.com/it/index"
+
+- name: "Dastechnologies S.R.L."
+  img:  "small_dastech.png"
+  url:  "http://www.dastech.biz/en/"

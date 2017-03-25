@@ -40,3 +40,5 @@ Sono previsti percorsi personalizzati per l’eventuale recupero di conoscenze d
 ## PIANO DIDATTICO
 
 ![Piano Didattico](/offerta.PNG){:.img-responsive.center-block}
+
+Il programma di dettaglio per ogni singolo modulo è consultabile [qui](https://docs.google.com/document/d/1xrZs8E6M0UVmLB5BxWX9p81Fz73QQY9HRh5sAoh90LI/edit?usp=sharing).

@@ -35,8 +35,11 @@ Il programma è articolato nei seguenti moduli didattici:
 * Indirizzo 1: Vulnerability Assessment & Penetration Testing						
 * Indirizzo 2: Critical Infrastructure Protection and Security Assurance						
  
+Il programma di dettaglio per ogni singolo modulo è consultabile [qui](https://docs.google.com/document/d/1xrZs8E6M0UVmLB5BxWX9p81Fz73QQY9HRh5sAoh90LI/edit?usp=sharing).
+
 Sono previsti percorsi personalizzati per l’eventuale recupero di conoscenze di base relative al settore ICT e rendere omogenee le conoscenze di base nell’elettronica, l’informatica e le telecomunicazioni a seconda delle esigenze dei singoli partecipanti.  Verrà reso disponibile materiale didattico da discutere singolarmente con un docente di ogni settore a cui chiedere chiarimenti e spiegazioni.
 
 ## PIANO DIDATTICO
 
 ![Piano Didattico](/offerta.PNG){:.img-responsive.center-block}
+

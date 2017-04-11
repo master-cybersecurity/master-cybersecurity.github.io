@@ -1,3 +1,7 @@
+- name: "UniCredit"
+  img:  "UniCredit.jpg"
+  url:  "https://www.unicredit.it"
+
 - name: "IBM"
   img:  "ibm-big.gif"
   url:  "http://www.ibm.com/it-it/"

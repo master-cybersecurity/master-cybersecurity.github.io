@@ -78,8 +78,8 @@
   img:  "small-piaggioaerospace.png"
   url:  "http://www.piaggioaerospace.it/"
 
-- name: "Finmeccanica"
-  img:  "finmeccanicabig.gif"
+- name: "Leonardo"
+  img:  "leonardo.png"
   url:  "http://www.finmeccanica.com"
 
 - name: "AnsaldoSTS"

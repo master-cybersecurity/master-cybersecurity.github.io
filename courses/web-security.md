@@ -2,9 +2,7 @@
 group: courses
 title: Web Security
 ---
-# Web Security
 *24h*
-
 
 ## Expected results
 * Practical knowledge of Vulnerability Assessment tools

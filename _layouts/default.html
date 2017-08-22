@@ -28,7 +28,7 @@
                         <ul class="nav navbar-nav">
                             {% assign sorted_pages = site.pages | sort:"order" %}
                             {% for p in sorted_pages %}
-                            {% if p.title != "Home" %}
+                            {% if p.title != "Home" and p.order %}
                             <li {% if page.url == p.url %}class="active"{% endif %}><a href="{{ p.url }}">{{ p.title }}</a></li>
                             {% endif %}
                             {% endfor %}

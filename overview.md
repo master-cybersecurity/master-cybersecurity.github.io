@@ -14,19 +14,27 @@ order: 1
 
 ### Sbocchi Occupazionali
 
+La natura variata e molteplice delle Aziende che aderiscono al Master evidenzia l'ampio spettro di ricadute
+occupazionali legate al conseguimento del titolo del Master. Recenti indagini indipendenti (Capital, Nro 447-448,
+sett/ott 2017) a livello nazionale evidenziano l'alto assorbimento di personale skilled in Cybersecurity da parte di tutto il
+comparto produttivo. Fra i numerosi profili, sebbene in senso non esclusivo, si possono comunque delineare alcuni
+sbocchi professionali di riferimento, sottolineando tuttavia che la rapidissima evoluzione dello scenario odierno offre
+prospettive e potenzialità ben ulteriori rispetto a quelle evidenziate: 
+
+* Information Security Officer in aziende o Corporate 
+* Operatore di Cybersecurity in Infrastrutture Critiche (comparto energia, banche e finanza)
+* Consulente di Cybersecurity per aziende
+* Sviluppatore e analista professionale per aziende legate ad automazione nei sistemi SCADA
+* Analista e operatore di Intelligence preventiva
+* Esperto e consulente legale di Incident Handling e Computer/Digital Forensics
+* Responsabile/componente di CERT aziendale
+* Auditor e esperto di Governance della (Cyber) Security per analisi di conformità a standard ISO
+* Sviluppatore di tool e metodi per aziende ad alto contenuto tecnologico 
+
 Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
 
 * 67% ha aumentato la sensibilità ai problemi di sicurezza ICT
 * 25% prevede un aumento del personale con specializzazione nel la sicurezza ICT
-
-**VEDI ART. 2 del BANDO**
-
-
-### Contributo a carico dei partecipanti
-
-* **€ 2.718,00 (inclusa la tassa di iscrizione)** per inoccupati, disoccupati o occupati con forma di lavoro
-flessibile, da pagare al momento dell’iscrizione. 
-* **€ 6.718,00 (inclusa la tassa di iscrizione)** per tutti gli altri, **suddivise in tre rate**.
 
 
 ### Benefici Addizionali

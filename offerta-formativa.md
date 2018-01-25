@@ -4,42 +4,62 @@ title: Offerta Formativa
 order: 2
 ---
 
-Il Master si contraddistingue per un approccio innovativo alla formazione, che coniuga il rigore e la sistematicità della docenza  accademica con l'esperienza sul campo e lil pragmatismo della docenza aziendale e professionale.
-
+Il Master si contraddistingue per un approccio innovativo alla formazione, che coniuga il rigore e la sistematicità della docenza accademica con l'esperienza sul campo e il pragmatismo della docenza aziendale e professionale.
  
 Il programma è articolato nei seguenti moduli didattici:
- 
+
 ## Parte I - Formazione Culturale
 
-1. Introduction to Cyber Security
-2. Cryptographic Protocols
-3. Information Security Management and Legals
-4. Computer security
-5. Network security
+1. Introduction to Cybersecurity
+1. Cryptographic Protocols
+1. Information Security Management and Legals
+1. Network Security
+1. Computer Security
 
+## Parte II - Formazione Professionale
 
-## Parte II - Formazione professionale
 1. Information Security Management
-2. Business Continuity and Crisis Management
-3. Legal Informatics, Privacy and Cyber Crime
-4. Fundamentals of Computer Forensics
-5. Cryptography
-6. Cyber Security in Credit System, Management in Incident Response
-7. Cybersecurity of SCADA Systems
-8. Social Engineering and Intelligence for Cyber Security
-9. Mobile and Cloud Security
+1. Business Continuity and Crisis Management
+1. Legal Informatics, Privacy and Cyber Crime
+1. Fundamentals of Computer Forensics
+1. Cryptography
+1. Cybersecurity in Credit System, Management in Incident Response
+1. Cybersecurity of SCADA Systems
+1. Social Engineering and Intelligence for Cybersecurity
+1. Mobile and Cloud Security
+1. Security and Threats to Critical Infrastructures
+1. Cybersecurity of Power and Energy Systems
+1. Seminario Confindustria
 
+## Parte III - Specializzazioni 
 
-## Parte III - Specializzazioni
+### Indirizzo 1: Vulnerability Assessment & Penetration Testing
+1. Incident Response and Forensics Analysis
+1. Malware Analysis
+1. Web Security
+1. Mobile Security
+1. Cyber Exercise
 
-* Indirizzo 1: Vulnerability Assessment & Penetration Testing						
-* Indirizzo 2: Critical Infrastructure Protection and Security Assurance						
+### Indirizzo 2: Cybersecurity for Industrial Systems
+1. ICT for Critical Infrastructure Protection
+1. Cyber Defense and Cyber Intelligence
+1. Standards and Best Practices in Security and Safety for Industry
+1. SCADA and Industrial Systems Protection
+1. Governance Finance
+1. Security Assurance
+1. Cyber Exercise
+
+### Indirizzo 3: Security by Design for Critical Infrastructure Protection
+1. ICT for Critical Infrastructure Protection
+1. Cyber Defense and Cyber Intelligence
+1. Standards and Best Practices in Security and Safety for Industry
+1. Security-driven Design
+1. Physical Security
+1. Risk Propagation in Interconnected Infrastructures
+1. Crisis Management for Critical Infrastructures
  
-Il programma di dettaglio per ogni singolo modulo è consultabile [qui](https://docs.google.com/document/d/1xrZs8E6M0UVmLB5BxWX9p81Fz73QQY9HRh5sAoh90LI/edit?usp=sharing).
 
-Sono previsti percorsi personalizzati per l’eventuale recupero di conoscenze di base relative al settore ICT e rendere omogenee le conoscenze di base nell’elettronica, l’informatica e le telecomunicazioni a seconda delle esigenze dei singoli partecipanti.  Verrà reso disponibile materiale didattico da discutere singolarmente con un docente di ogni settore a cui chiedere chiarimenti e spiegazioni.
+[//]: # (## PIANO DIDATTICO)
 
-## PIANO DIDATTICO
-
-![Piano Didattico](/offerta.PNG){:.img-responsive.center-block}
+[//]: # (![Piano Didattico](/offerta.PNG){:.img-responsive.center-block})
 

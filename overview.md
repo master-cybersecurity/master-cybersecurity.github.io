@@ -4,13 +4,32 @@ title: Overview
 order: 1
 ---
 
-**Obiettivo:** formare esperti nella progettazione e gestione di sistemi ICT preposti alla sicurezza e protezione del patrimonio informativo di un’organizzazione.
+**Obiettivo:** formare la figura di un esperto nella progettazione e gestione dei sistemi basati sull’Information and Communications Technology (ICT) e di Cybersecurity (Mobile, Web, Cloud, SCADA, ...) preposti alla tutela della sicurezza  e  alla  protezione  del  patrimonio  informativo  ed  architetturale  di  un'azienda,  una  Infrastruttura  Critica  o un’organizzazione.
 
 ### Specializzazioni
-* *Vulnerability Assessment & Penetration Testing*
-* *Critical Infrastructure Protection and Security Assurance*
+
+- *Vulnerability Assessment & Penetration Testing*
+- *Cybersecurity for Industrial Systems*
+- *Security by Design for Critical Infrastructure Protection*
 
 ### Sbocchi Occupazionali
+
+La natura variata e molteplice delle Aziende che aderiscono al Master evidenzia l'ampio spettro di ricadute
+occupazionali legate al conseguimento del titolo del Master. Recenti indagini indipendenti (Capital, Nro 447-448,
+sett/ott 2017) a livello nazionale evidenziano l'alto assorbimento di personale skilled in Cybersecurity da parte di tutto il
+comparto produttivo. Fra i numerosi profili, sebbene in senso non esclusivo, si possono comunque delineare alcuni
+sbocchi professionali di riferimento, sottolineando tuttavia che la rapidissima evoluzione dello scenario odierno offre
+prospettive e potenzialità ben ulteriori rispetto a quelle evidenziate: 
+
+* Information Security Officer in aziende o Corporate 
+* Operatore di Cybersecurity in Infrastrutture Critiche (comparto energia, banche e finanza)
+* Consulente di Cybersecurity per aziende
+* Sviluppatore e analista professionale per aziende legate ad automazione nei sistemi SCADA
+* Analista e operatore di Intelligence preventiva
+* Esperto e consulente legale di Incident Handling e Computer/Digital Forensics
+* Responsabile/componente di CERT aziendale
+* Auditor e esperto di Governance della (Cyber) Security per analisi di conformità a standard ISO
+* Sviluppatore di tool e metodi per aziende ad alto contenuto tecnologico 
 
 Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
 
@@ -18,32 +37,36 @@ Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
 * 25% prevede un aumento del personale con specializzazione nel la sicurezza ICT
 
 
-### Contributo a carico dei partecipanti
-
-* **€ 2.718,00 (inclusa la tassa di iscrizione)** per inoccupati, disoccupati o occupati con forma di lavoro
-flessibile, da pagare al momento dell’iscrizione. 
-* **€ 6.718,00 (inclusa la tassa di iscrizione)** per tutti gli altri, **suddivise in tre rate**.
-
-
 ### Benefici Addizionali
 Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master di usufruire di un massimo di **cinque borse** per coprire i costi del Master stesso, accedendo al [Bando INPS](/bandi/INPS_Bando_Master_universitari_Executive_2016-2017_borse.pdf).
 
 ### Bando e Scadenze
 
-* Le modalità di accesso al **Master** sono descritte nel [**D.R. 406 del 10.02.2017**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/D.R.%20406%20del%2010.02.2017%20BANDO%20F.TO_.pdf).
-* La scadenza per la presentazione della domanda telematica è l'**8 Marzo, 2017, entro le ore 12:00**.
-* Le modalità di accesso al **Corso di Formazione** sono descritte nel [**D.D. 455 del 14.02.2017**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/Decr.%20n.%20455%20c.f.%20cyber%20rettif%203%20firmato.pdf).
+* Le modalità di accesso al **Master** sono descritte nel [**D.R. 173 del 17.01.2018**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/DR%20n.%20173%20del%2017.01.2018%20fto.pdf).
+* La scadenza per la presentazione della domanda telematica è il **30 Marzo, 2018, entro le ore 12:00** all'indirizzo: [Master \| Servizi Online](https://servizionline.unige.it/studenti/post-laurea/master).
 
 ### Altre Informazioni
 
 * **Durata:** 12 mesi
-* **Periodo:** 30/3/2017-30/3/2018
-* **Orario:** Giovedi Pomeriggio, Venerdi, Sabato Mattina
-* **Attività didattica/laboratorio:** 428
-* **Stage e perfezionamento tesi:** 150
+* **Periodo:** maggio 2018 - aprile 2019
+* **Frequenza:** la frequenza è a tempo parziale per un ammontare massimo di 32 ore settimanali, con tolleranza del 34% delle assenze. Il Master NON prevede ore di docenza telematica. 
+* **Attività didattica/laboratorio:** 464 ore
+* **Stage/project work:** 450 ore
 * **CFU:** 60
 
-### Modalità di Accesso
-Ulteriori informazioni sulle **Modalità di Accesso** al Master sono disponibili [qui](/modalita).
+### Prove di ammissione
 
-È prevista anche la possibilità di partecipazione da parte di diplomati di Scuola Secondaria Superiore e la possibilità (sia per laureati, sia per diplomati) di frequentare singoli moduli scelti dal programma del Master, conseguendo uno specifico attestato. Le **Modalità di Accesso** al Corso di Formazione sono disponibili [qui](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/Decr.%20n.%20455%20c.f.%20cyber%20rettif%203%20firmato.pdf)
+* **La  prova  scritta  sarà  effettuata  il 9  aprile  2018  alle  ore  16:00** presso  i  locali  (aula  B2)  della  Scuola  Politecnica   dell’Università  di  Genova  –  Via  Opera  Pia  15  A  –  16145  Genova. 
+* L’elenco  degli  ammessi  alla  prova  orale,  la  sede delle prove orali e il relativo calendario saranno resi disponibili mediante affissione presso il Dipartimento di Ingegneria Navale,  Elettrica,  Elettronica  e  delle  Telecomunicazioni  (DITEN), Via   all’Opera  Pia  11A  -  16145  Genova e  sul  sito web del Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) entro **il giorno 11 aprile 2018**.
+* **La prova orale di ammissione avrà luogo a partire dal 18 aprile 2018 alle ore 9:00**. 
+* **La  graduatoria  degli  ammessi verrà  pubblicata**  presso  il  Dipartimento  di  Ingegneria  Navale,  Elettrica,  Elettronica  e delle  Telecomunicazioni  (DITEN),  Via  all’Opera  Pia 11A   -  16145  Genova  e  sul  sito   web  del  Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) **entro il 23 aprile 2018**.
+
+
+### Perfezionamento dell'Iscrizione
+
+L'iscrizione va perfezionata entro il 30 aprile 2018 mediante procedura online collegandosi alla pagina [servizionline.unige.it/studenti/post-laurea/confermaPL](https://servizionline.unige.it/studenti/post-laurea/confermaPL), scegliendo il Master la cui iscrizione deve essere confermata.
+
+### Inizio Corso 
+
+Mercoledì 2 maggio 2018 (da definire il luogo dell'inaugurazione).
+

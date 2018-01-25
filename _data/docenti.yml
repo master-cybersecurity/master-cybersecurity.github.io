@@ -40,11 +40,6 @@
   foto: giovannichiola.jpg
   bio:  /bio/Giovanni_Chiola.pdf
 
-- name: Gabriele Costa
-  logo: unige_dibris.png
-  foto: gabriele_costa.jpg
-  bio:  /bio/Gabriele_Costa.pdf
-
 - name: Mattia Epifani
   logo: reality-net.png
   foto: Mattia_Epifani.jpg
@@ -90,11 +85,6 @@
   foto: matteo_meucci.jpg
   bio: 	/bio/Matteo_Meucci.pdf
 
-- name: Marco Morana
-  logo: small_minded_security.gif
-  foto: Marco_Morana.jpg
-  bio: 	/bio/Marco_Morana.pdf
-
 - name: Gianluca Papaleo
   logo: small_dastech.png
   foto: GianlucaPapaleo.jpg
@@ -104,11 +94,6 @@
   logo: reality-net.png
   foto: Francesco_Picasso.jpg
   bio: 	/bio/Francesco_Picasso.pdf
-
-- name: Andrea Rigoni
-  logo: small-deloitte.png
-  foto: Andrea_Rigoni.jpg
-  bio: 	/bio/Andrea_Rigoni.pdf
 
 - name: Gaetano Sanacore
   logo: Ansaldo_Energia_small.jpg
@@ -152,12 +137,20 @@
 - name: Stefano Lorenzi
   logo: small-piaggioaerospace.png
   
-- name: Emanuele Gentili
-  logo: small-tigersecurity.png
-  
 - name: Franco Prosperi
   logo: small-consiq.png
   foto: Franco_Prosperi.jpg
   
 - name: Romano Castagnara
   logo: small-consiq.png
+
+- name: Piergiorgio Carbone
+
+- name: Paolo Pinceti
+
+- name: Paola Girdinio
+
+- name: Lorenzo Ivaldi
+  logo: unige_diten.png
+
+- name: Silvio Ranise

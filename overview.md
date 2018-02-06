@@ -37,9 +37,6 @@ Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
 * 25% prevede un aumento del personale con specializzazione nel la sicurezza ICT
 
 
-### Benefici Addizionali
-Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master di usufruire di un massimo di **cinque borse** per coprire i costi del Master stesso, accedendo al [Bando INPS](/bandi/INPS_Bando_Master_universitari_Executive_2016-2017_borse.pdf).
-
 ### Bando e Scadenze
 
 * Le modalità di accesso al **Master** sono descritte nel [**D.R. 173 del 17.01.2018**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/DR%20n.%20173%20del%2017.01.2018%20fto.pdf).
@@ -49,8 +46,8 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 
 * **Durata:** 12 mesi
 * **Periodo:** maggio 2018 - aprile 2019
-* **Frequenza:** la frequenza è a tempo parziale per un ammontare massimo di 32 ore settimanali, con tolleranza del 34% delle assenze. Il Master NON prevede ore di docenza telematica. 
-* **Attività didattica/laboratorio:** 464 ore
+* **Frequenza:** il corso si articola in lezioni dal lunedì pomeriggio al giovedì pomeriggio, con possibilità di sessioni di esame al venerdì mattino, per un massimo di 32 ore settimanali, con tolleranza delle assenze pari al 20% per gli inoccupati ed al 30% per gli occupati.
+* **Attività didattica/laboratorio:** 460 ore
 * **Stage/project work:** 450 ore
 * **CFU:** 60
 
@@ -58,7 +55,7 @@ Possibilità per i Dipendenti della Pubblica Amministrazione ammessi al Master d
 
 * **La  prova  scritta  sarà  effettuata  il 9  aprile  2018  alle  ore  16:00** presso  i  locali  (aula  B2)  della  Scuola  Politecnica   dell’Università  di  Genova  –  Via  Opera  Pia  15  A  –  16145  Genova. 
 * L’elenco  degli  ammessi  alla  prova  orale,  la  sede delle prove orali e il relativo calendario saranno resi disponibili mediante affissione presso il Dipartimento di Ingegneria Navale,  Elettrica,  Elettronica  e  delle  Telecomunicazioni  (DITEN), Via   all’Opera  Pia  11A  -  16145  Genova e  sul  sito web del Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) entro **il giorno 11 aprile 2018**.
-* **La prova orale di ammissione avrà luogo a partire dal 18 aprile 2018 alle ore 9:00**. 
+* **La prova orale di ammissione avrà luogo a partire dal 18 aprile 2018 alle ore 9:00**. I colloqui con i Candidati saranno ripartiti su due giornate consecutive
 * **La  graduatoria  degli  ammessi verrà  pubblicata**  presso  il  Dipartimento  di  Ingegneria  Navale,  Elettrica,  Elettronica  e delle  Telecomunicazioni  (DITEN),  Via  all’Opera  Pia 11A   -  16145  Genova  e  sul  sito   web  del  Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) **entro il 23 aprile 2018**.
 
 

@@ -4,7 +4,7 @@ title: Organizzazione
 order: 4
 ---
 
-Il Master è attivato per l’anno accademico 2016/2017 presso
+Il Master è attivato per l’anno accademico 2017/2018 presso
 il [Dipartimento di Ingegneria Navale, Elettrica, Elettronica e delle Telecomunicazioni (DITEN)](http://www.diten.unige.it/)
 in collaborazione con
 il [Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistemi (DIBRIS)](http://www.dibris.unige.it/).
@@ -13,22 +13,31 @@ il [Dipartimento di Informatica, Bioingegneria, Robotica e Ingegneria dei Sistem
 Presidente: Prof. Rodolfo Zunino
 
 ### Comitato di gestione:
+
+* Prof. Rodolfo Zunino (Università di Genova)
+* Prof. Alessandro Armando (Università di Genova)
+* Prof. Riccardo Bozzo (Università di Genova)
 * Prof. Giovanni Chiola (Università di Genova)
-* Prof. Gabriele Costa (Università di Genova)
+* Prof. Paolo Gastaldo (Università di Genova)
+* Prof.ssa Paola Girdinio (Università di Genova)
+* Ing. Lorenzo Ivaldi (Università di Genova)
 * Prof. Giovanni Lagorio (Università di Genova)
 * Prof. Mario Marchese (Università di Genova)
 * Prof. Alessio Merlo (Università di Genova)
 * Prof. Paolo Pinceti (Università di Genova)
-* Prof. Sebastiano B. Serpico (Università di Genova)
-* Prof. Rodolfo Zunino (Università di Genova)
-* Dott. Maurizio Aiello (CNR)
-* Dott. Andrea Rigoni (Intellium-Deloitte)
-* Ing. Marco Biancardi (ABB)
-* Dr. Mattia Epifani (RealityNet)
+* Dr. Enrico Russo
+* Prof. Sebastiano Serpico (Università di Genova)
+* Dr. Maurizio Aiello (CNR)
+* Ing. Fabio Cocurullo (LEONARDO)
+* Dr. Mattia Epifani (REALITYNET)
 * Ing. Ermete Meda (Ansaldo STS)
-* Ing. Danilo Massa (Aizoon) 
+* Ing. Danilo Massa (Aizoon)
+* Ing. Daniele Moresco (ABB)
+* Ing. Daniele Patuelli (ABB)
 * Ing. Silvio Ranise (Fondazione Bruno Kessler)
-* Ing. Gaetano Sanacore (Ansaldo Energia)
+* Ing. Antonio Rebora (Ansaldo Energia)
+* Dott.ssa Patrizia Queirolo (LEONARDO)
+* Gen. B. A. Francesco Vestito (Stato Maggiore della Difesa- Comando Interforze per le Operazioni Cibernetiche)
 
 La segreteria organizzativa e amministrativo-contabile e la funzione di sportello informativo del Master è svolta dal 
 

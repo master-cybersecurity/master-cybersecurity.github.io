@@ -32,7 +32,7 @@ Presidente: Prof. Rodolfo Zunino
 * Dr. Mattia Epifani (REALITYNET)
 * Ing. Ermete Meda (Ansaldo STS)
 * Ing. Danilo Massa (Aizoon)
-* Ing. Daniele Moresco (ABB)
+* Ing. Danilo Moresco (ABB)
 * Ing. Daniele Patuelli (ABB)
 * Ing. Silvio Ranise (Fondazione Bruno Kessler)
 * Ing. Antonio Rebora (Ansaldo Energia)

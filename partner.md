@@ -30,7 +30,9 @@ Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/p
 * Minded Security
 * Piaggio AeroSpace
 * Protivity
+* Novotek S.R.L.
 * RealityNet
+* SIA
 * TALOS
 * Vodafone.
 

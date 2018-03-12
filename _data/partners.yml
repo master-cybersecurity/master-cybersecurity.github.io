@@ -89,3 +89,10 @@
 - name: "Dastechnologies S.R.L."
   img:  "small_dastech.png"
   url:  "http://www.dastech.biz/en/"
+ 
+- name: "Novotek S.R.L."
+  img:  "novotek.png"
+  url:  "http://www.novoteksrl.it"
+- name: "SIA"
+  img:  "sia.png"
+  url:  "http://www.sia.eu"

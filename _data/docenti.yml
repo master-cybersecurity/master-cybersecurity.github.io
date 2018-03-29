@@ -50,10 +50,9 @@
   foto: Enrico_Ferretti.jpg
   bio:  /bio/Enrico_Ferretti.pdf
 
-- name: Matthew Holt
+- name: Daniele Frasca
   logo: small-deloitte.png
-  foto: Matthew_Holt.jpg
-  bio:  /bio/Matthew_Holt.pdf
+  foto: daniele_frasca.jpg
 
 - name: Giovanni Lagorio
   logo: unige_dibris.png
@@ -148,9 +147,11 @@
 
 - name: Paolo Pinceti
 
-- name: Paola Girdinio
-
 - name: Lorenzo Ivaldi
   logo: unige_diten.png
 
 - name: Silvio Ranise
+
+- name: Paola girdinio
+  logo: unige_diten.png
+  foto: paola_girdinio.jpg  

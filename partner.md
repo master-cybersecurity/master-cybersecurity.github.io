@@ -36,10 +36,10 @@ Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/p
 * Vodafone.
 
 
-<!-- 
+<! 
 
 {% for partner in site.data.partners %}
 [![{{partner.name}}]({{ partner.img | prepend: "/logo/sponsor/" }}){:.img-responsive.center-block}]({{ partner.url }}){:.col-sm-3}{:target="_blank"}
 {% endfor %}
 
--->
+>

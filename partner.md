@@ -27,12 +27,11 @@ Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/p
 * Fondazione Bruno Kessler
 * FortiNet
 * IBM
+* InTheCyber Srl
 * Minded Security
 * Piaggio AeroSpace
 * Protivity
-* Novotek S.R.L.
 * RealityNet
-* SIA
 * TALOS
 * Vodafone.
 

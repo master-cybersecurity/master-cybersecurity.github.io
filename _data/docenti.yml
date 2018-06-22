@@ -53,6 +53,10 @@
 - name: Daniele Frasca
   logo: small-deloitte.png
   foto: daniele_frasca.jpg
+  
+- name: Vladimir Dashchenko
+  logo: Kaspersky_small.jpg
+  foto: Vladimir_Dashchenko.jpg  
 
 - name: Giovanni Lagorio
   logo: unige_dibris.png
@@ -154,8 +158,4 @@
 
 - name: Paola Girdinio
   logo: unige_diten.png
-  foto: paola_girdinio.jpg  
-  
-- name: Vladimir Dashchenko
-  logo: Kaspersky_small.jpg
-  foto: Vladimir_Dashchenko.jpg
+  foto: paola_girdinio.jpg

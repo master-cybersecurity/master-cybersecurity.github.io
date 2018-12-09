@@ -8,9 +8,8 @@ order: 1
 
 ### Specializzazioni
 
-- *Vulnerability Assessment & Penetration Testing*
-- *Cybersecurity for Industrial Systems*
-- *Security by Design for Critical Infrastructure Protection*
+- *Digital Forensics & Penetration Testing*
+- *Critical Infrastructure Protection & Security Assurance* 
 
 ### Sbocchi Occupazionali
 
@@ -31,29 +30,35 @@ prospettive e potenzialità ben ulteriori rispetto a quelle evidenziate:
 * Auditor e esperto di Governance della (Cyber) Security per analisi di conformità a standard ISO
 * Sviluppatore di tool e metodi per aziende ad alto contenuto tecnologico 
 
-Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
+Il recente rapporto WYSER del 2018 evidenzia che: 
 
-* 67% ha aumentato la sensibilità ai problemi di sicurezza ICT
-* 25% prevede un aumento del personale con specializzazione nel la sicurezza ICT
+* Sono stimate 3,5 milioni di nuove posizioni nel mondo nel settore della Cybersecurity nel triennio 2018-2021
+* i principali settori coinvolti saranno servizi professionali (37%), Finanza (13%), Difesa (12%), Sanità (6%).
+
 
 
 ### Bando e Scadenze
 
-* Le modalità di accesso al **Master** sono descritte nel [**D.R. 173 del 17.01.2018**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/DR%20n.%20173%20del%2017.01.2018%20fto.pdf).
-* La scadenza per la presentazione della domanda telematica è il **30 Marzo, 2018, entro le ore 12:00** all'indirizzo: [Master \| Servizi Online](https://servizionline.unige.it/studenti/post-laurea/master).
+Le modalità di accesso al bando e le tempistiche verranno annunciate a breve.
 
-### Altre Informazioni
+<!-- * Le modalità di accesso al **Master** sono descritte nel [**D.R. 173 del 17.01.2018**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/DR%20n.%20173%20del%2017.01.2018%20fto.pdf).
+* La scadenza per la presentazione della domanda telematica è il **30 Marzo, 2018, entro le ore 12:00** all'indirizzo: [Master \| Servizi Online](https://servizionline.unige.it/studenti/post-laurea/master).
+-->
+
+### Informazioni generali
 
 * **Durata:** 12 mesi
-* **Periodo:** maggio 2018 - aprile 2019
-* **Frequenza:** il corso si articola in lezioni dal lunedì pomeriggio al giovedì pomeriggio, con possibilità di sessioni di esame al venerdì mattino, per un massimo di 32 ore settimanali, con tolleranza delle assenze pari al 20% per gli inoccupati ed al 30% per gli occupati.
-* **Attività didattica/laboratorio:** 460 ore
-* **Stage/project work:** 450 ore
+* **Periodo:** 2 maggio 2018 - 26 aprile 2020
+* **Frequenza:** il corso si articola in 16 ore di lezione settimanali dal giovedi pomeriggio al sabato mattina, con tolleranza delle assenze pari al 30%.
+* **Attività didattica/laboratorio:** 432 ore
+* **Stage/project work:** 150 ore
 * **CFU:** 60
 
 ### Prove di ammissione
 
-* **La  prova  scritta  sarà  effettuata  il 9  aprile  2018  alle  ore  16:00** presso  i  locali  (aula  B2)  della  Scuola  Politecnica   dell’Università  di  Genova  –  Via  Opera  Pia  15  A  –  16145  Genova. 
+La prova di ammissione consta di una prova scritta e di una prova orale. Maggiori informazioni saranno fornite a breve.
+
+<!-- * **La  prova  scritta  sarà  effettuata  il 9  aprile  2018  alle  ore  16:00** presso  i  locali  (aula  B2)  della  Scuola  Politecnica   dell’Università  di  Genova  –  Via  Opera  Pia  15  A  –  16145  Genova. 
 * L’elenco  degli  ammessi  alla  prova  orale,  la  sede delle prove orali e il relativo calendario saranno resi disponibili mediante affissione presso il Dipartimento di Ingegneria Navale,  Elettrica,  Elettronica  e  delle  Telecomunicazioni  (DITEN), Via   all’Opera  Pia  11A  -  16145  Genova e  sul  sito web del Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) entro **il giorno 11 aprile 2018**.
 * **La prova orale di ammissione avrà luogo a partire dal 18 aprile 2018 alle ore 9:00**. I colloqui con i Candidati saranno ripartiti su due giornate consecutive
 * **La  graduatoria  degli  ammessi verrà  pubblicata**  presso  il  Dipartimento  di  Ingegneria  Navale,  Elettrica,  Elettronica  e delle  Telecomunicazioni  (DITEN),  Via  all’Opera  Pia 11A   -  16145  Genova  e  sul  sito   web  del  Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) **entro il 23 aprile 2018**.
@@ -62,8 +67,9 @@ Tra le aziende utenti di soluzioni per la sicurezza ICT (Rapporto CLUSIT 2014)
 ### Perfezionamento dell'Iscrizione
 
 L'iscrizione va perfezionata entro il 30 aprile 2018 mediante procedura online collegandosi alla pagina [servizionline.unige.it/studenti/post-laurea/confermaPL](https://servizionline.unige.it/studenti/post-laurea/confermaPL), scegliendo il Master la cui iscrizione deve essere confermata.
+-->
 
 ### Inizio Corso 
 
-Mercoledì 2 maggio 2018 (da definire il luogo dell'inaugurazione).
+Giovedi 2 maggio 2019 (da definire il luogo dell'inaugurazione).
 

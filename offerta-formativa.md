@@ -19,44 +19,36 @@ Il programma è articolato nei seguenti moduli didattici:
 ## Parte II - Formazione Professionale
 
 1. Information Security Management
-1. Business Continuity and Crisis Management
 1. Legal Informatics, Privacy and Cyber Crime
 1. Fundamentals of Computer Forensics
-1. Cryptography
-1. Cybersecurity in Credit System, Management in Incident Response
+1. Cryptography & Blockchain Technologies
+1. Cybersecurity in Financial and Credit Systems
+1. Security and Threats to Critical Infrastructure
+1. Business Continuity and Crisis Management
 1. Cybersecurity of SCADA Systems
 1. Social Engineering and Intelligence for Cybersecurity
-1. Mobile and Cloud Security
-1. Security and Threats to Critical Infrastructures
-1. Cybersecurity of Power and Energy Systems
-1. Seminario Confindustria
+1. IoT Applications Security
+
 
 ## Parte III - Specializzazioni 
 
-### Indirizzo 1: Vulnerability Assessment & Penetration Testing
+### Indirizzo 1: Digital Forensics & Penetration Testing
 1. Incident Response and Forensics Analysis
 1. Malware Analysis
 1. Web Security
 1. Mobile Security
 1. Cyber Exercise
 
-### Indirizzo 2: Cybersecurity for Industrial Systems
-1. ICT for Critical Infrastructure Protection
-1. Cyber Defense and Cyber Intelligence
-1. Standards and Best Practices in Security and Safety for Industry
-1. SCADA and Industrial Systems Protection
-1. Governance Finance
-1. Security Assurance
-1. Cyber Exercise
 
-### Indirizzo 3: Security by Design for Critical Infrastructure Protection
-1. ICT for Critical Infrastructure Protection
+### Indirizzo 2: Critical Infrastructure Protection & Security Assurance
 1. Cyber Defense and Cyber Intelligence
-1. Standards and Best Practices in Security and Safety for Industry
-1. Security-driven Design
+1. Standards and Best Practices in Security and Safety
+1. SCADA and Industrial System Protection
+1. Defense-in-Depth Strategies for critical Infrastructures
+1. ISO/IEC 27001 & 27002 Standards and Security Assurance
 1. Physical Security
 1. Risk Propagation in Interconnected Infrastructures
-1. Crisis Management for Critical Infrastructures
+1. Cybersecurity for power and energy systems
  
 
 [//]: # (## PIANO DIDATTICO)

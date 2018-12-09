@@ -3,32 +3,35 @@
   foto: alessandro_armando.jpg
   bio:  /bio/Alessandro_Armando.pdf
 
-- name: Maurizio Aiello
-  logo: small_cnr.gif
-  foto: Maurizio_Aiello.jpg
-  bio:  /bio/Maurizio_Aiello.pdf
+- name: Matteo Arrigoni
+  logo: tba
+  foto: tba
+
 
 - name: Elena Bassoli
   foto: Elena_Bassoli.jpg
   bio:  /bio/Elena_Bassoli.pdf
-
-- name: Guido Bertoni
-  logo: small-life_augmented.gif
-  foto: Guido_Bertoni.jpg
-
-- name: Marco Biancardi
-  logo: small-abb.gif
-  foto: MarcoBiancardi.jpg
-  bio:  /bio/MarcoBiancardi.pdf
+  
+- name: Alessandro Braccio
+  logo: small_minded_security.gif
+  foto: tba  
 
 - name: Susanna Buson
   foto: Susanna_Buson.jpg
   bio:  /bio/Susanna_Buson.jpg
 
+- name: Pierluigi Carbone
+  logo: tba
+  foto: tba
+
 - name: Roberto Carbone
   logo: small_bruno_kessler.gif
   foto: Roberto_Carbone.jpg
   bio:  /bio/Roberto_Carbone.pdf
+
+- name: Micaela Caserza Magro
+  logo: tba
+  foto: tba
 
 - name: Alessandro Cerasoli
   logo: NIS.gif
@@ -40,6 +43,18 @@
   foto: giovannichiola.jpg
   bio:  /bio/Giovanni_Chiola.pdf
 
+- name: Fabio Cocurullo
+  logo: tba
+  foto: tba
+
+- name: Daniele De Bertol
+  logo: tba
+  foto: tba
+  
+- name: Gianna Detoni
+  logo: tba
+  foto: tba
+
 - name: Mattia Epifani
   logo: reality-net.png
   foto: Mattia_Epifani.jpg
@@ -49,24 +64,37 @@
   logo: protiviti.gif
   foto: Enrico_Ferretti.jpg
   bio:  /bio/Enrico_Ferretti.pdf
-
-- name: Daniele Frasca
-  logo: small-deloitte.png
-  foto: daniele_frasca.jpg
   
-- name: Vladimir Dashchenko
-  logo: Kaspersky_small.jpg
-  foto: Vladimir_Dashchenko.jpg  
+- name: Paola Girdinio
+  logo: unige_diten.png
+  foto: paola_girdinio.jpg
 
 - name: Giovanni Lagorio
   logo: unige_dibris.png
   foto: GiovanniLagorio.jpg
   bio:  /bio/Giovanni_Lagorio.pdf
 
+- name: Stefano Lorenzi
+  logo: small-piaggioaerospace.png
+  foto: tba
+ 
 - name: Roberto Losengo
   logo: losengo-soliani.gif
   foto: Roberto_Losengo.jpg
   bio:  /bio/Roberto_Losengo.pdf
+  
+- name: Mario Marchese
+  logo: unige_diten.png
+  foto: tba
+
+- name: Pietro Marmo
+  logo: tba
+  foto: tba
+  
+- name: Stefano Martinazzo
+  logo: small-axerta.png
+  foto: Stefano_Martinazzo.png
+  bio: /bio/Stefano_Martinazzo.pdf	
 
 - name: Danilo Massa
   logo: aizoon.gif
@@ -83,80 +111,61 @@
   foto: Alessio_Merlo.jpg
   bio: 	/bio/Alessio_Merlo.pdf
 
-- name: Matteo Meucci
-  logo: small_minded_security.gif
-  foto: matteo_meucci.jpg
-  bio: 	/bio/Matteo_Meucci.pdf
+- name: Gabriele Nani
+  logo: tba
+  foto: tba
 
-- name: Gianluca Papaleo
-  logo: small_dastech.png
-  foto: GianlucaPapaleo.jpg
-  bio: 	/bio/Gianluca_Papaleo.pdf
+- name: Francesco Perna
+  logo: tba
+  foto: tba
 
 - name: Francesco Picasso
   logo: reality-net.png
   foto: Francesco_Picasso.jpg
   bio: 	/bio/Francesco_Picasso.pdf
+  
+- name: Pierluigi Pugni
+  logo: tba
+  foto: tba
 
-- name: Gaetano Sanacore
+- name: Stefano Ramacciotti
   logo: Ansaldo_Energia_small.jpg
   foto: Gaetano_Sanacore.jpg
   bio:  /bio/Gaetano_Sanacore.pdf
+
+- name: Silvio Ranise
+  logo: tba
+  foto: tba
+
+- name: Yuri Rassega
+  logo: tba
+  foto: tba  
+  
+- name: Antonio Rebora
+  logo: Ansaldo_Energia_small.jpg
+  foto: Antonio_Rebora.jpg
+  bio:  /bio/Antonio_Rebora.pdf
+
+- name: Marina Ribaudo
+  logo: unige_dibris.png
+  foto: tba
+
+- name: Stefano Solari
+  logo: tba
+  foto: tba
 
 - name: Roberto Surlinelli
   logo: polizia_di_stato.gif
   foto: Roberto_Surlinelli.jpg
   bio: 	/bio/Roberto_Surlinelli.pdf
 
-- name: Rodolfo Zunino
-  logo: unige_diten.png
-  foto: RodolfoZunino.jpg
-  bio: 	/bio/Rodolfo_Zunino.pdf
-
 - name: Luca Verderame
   logo: small-talos.png
   foto: Luca_Verderame.png
   bio: 	/bio/Luca_Verderame.pdf
 
-- name: Simone Aonzo
-  logo: unige_dibris.png
-  foto: Simone_Aonzo.png
-  bio:  /bio/Simone_Aonzo.pdf
-
-- name: Andrea Valenza
-  logo: unige_dibris.png
-  foto: Andrea_Valenza.jpg
-
-- name: Antonio Rebora
-  logo: Ansaldo_Energia_small.jpg
-  foto: Antonio_Rebora.jpg
-  bio:  /bio/Antonio_Rebora.pdf
-
-- name: Stefano Martinazzo
-  logo: small-axerta.png
-  foto: Stefano_Martinazzo.png
-  bio: /bio/Stefano_Martinazzo.pdf	
-
-- name: Stefano Lorenzi
-  logo: small-piaggioaerospace.png
-  
-- name: Franco Prosperi
-  logo: small-consiq.png
-  foto: Franco_Prosperi.jpg
-  
-- name: Romano Castagnara
-  logo: small-consiq.png
-
-- name: Pierluigi Carbone
-
-- name: Paolo Pinceti
+- name: Rodolfo Zunino
   logo: unige_diten.png
+  foto: RodolfoZunino.jpg
+  bio: 	/bio/Rodolfo_Zunino.pdf
 
-- name: Lorenzo Ivaldi
-  logo: unige_diten.png
-
-- name: Silvio Ranise
-
-- name: Paola Girdinio
-  logo: unige_diten.png
-  foto: paola_girdinio.jpg

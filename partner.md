@@ -1,10 +1,16 @@
 ---
 layout: partner
-title: Partner
+title: Sponsor & Partner
 order: 5
 ---
 
-Aderiscono al progetto le seguenti Aziende e enti, anche attraverso la disponibilità di docenza diretta nell'attività didattica:
+# Sponsor
+TBA
+
+# Partner
+TBA
+
+<!-- Aderiscono al progetto le seguenti Aziende e enti, anche attraverso la disponibilità di docenza diretta nell'attività didattica:
 
 * ABB S.p.A.
 * AITEK
@@ -34,7 +40,7 @@ Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/p
 * RealityNet
 * TALOS
 * Vodafone.
-
+-->
 
 <!-- 
 

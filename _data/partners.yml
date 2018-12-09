@@ -2,10 +2,6 @@
   img:  "UniCredit.jpg"
   url:  "https://www.unicredit.it"
 
-- name: "IBM"
-  img:  "ibm-big.gif"
-  url:  "http://www.ibm.com/it-it/"
-
 - name: "DITEN"
   img:  "diten-q.gif"
   url:  "http://www.diten.unige.it/index.php?lang=it"
@@ -34,10 +30,6 @@
   img:  "minded_security.png"
   url:  "https://www.mindedsecurity.com"
 
-- name: "ST"
-  img:  "life-augmented-q.gif"
-  url:  "http://www.st.com/web/en/home.html"
-
 - name: "Poste Italiane"
   img:  "poste-italiane-q.gif"
   url:  "http://www.poste.it/"
@@ -58,21 +50,9 @@
   img:  "reality-net-q2.gif"
   url:  "http://www.realitynet.it/"
 
-- name: "Tiger"
-  img:  "tiger-security.gif"
-  url:  "https://www.tigersecurity.pro/"
-
 - name: "AnsaldoEnergia"
   img:  "AEN.gif"
   url:  "http://www.ansaldoenergia.it/"
-
-- name: "Deloitte"
-  img:  "deloitte-q.png"
-  url:  "https://www2.deloitte.com/it/it.html"
-
-- name: "Vodafone"
-  img:  "vodafone_logo.jpg"
-  url:  "http://www.vodafone.it/"
   
 - name: "Piaggio AeroSpace"
   img:  "small-piaggioaerospace.png"
@@ -86,18 +66,3 @@
   img:  "ansaldo-sts.gif"
   url:  "http://www.ansaldo-sts.com/it/index"
 
-- name: "Dastechnologies S.R.L."
-  img:  "small_dastech.png"
-  url:  "http://www.dastech.biz/en/"
- 
-- name: "Novotek S.R.L."
-  img:  "novotek.png"
-  url:  "http://www.novoteksrl.it"
-  
-- name: "SIA"
-  img:  "sia.png"
-  url:  "http://www.sia.eu"
-  
-- name: "InTheCyber Srl"
-  img:  "itc_logo.jpg"
-  url:  "http://www.inthecyber.com/"

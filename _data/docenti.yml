@@ -1,95 +1,101 @@
 - name: Alessandro Armando
   logo: unige_dibris.png
   foto: alessandro_armando.jpg
-  bio:  /bio/Alessandro_Armando.pdf
+  bio:  https://www.linkedin.com/in/alessandro-armando-67505913/
 
 - name: Matteo Arrigoni
-  logo: tba
-  foto: tba
-
+  logo: fortinet.png
+  foto: Matteo_Arrigoni.jpg
+  bio: https://www.linkedin.com/in/matteo-arrigoni-67341a3/
 
 - name: Elena Bassoli
   foto: Elena_Bassoli.jpg
-  bio:  /bio/Elena_Bassoli.pdf
+  bio:  https://www.linkedin.com/in/elenabassoli/
   
 - name: Alessandro Braccio
   logo: small_minded_security.gif
-  foto: tba  
+  foto: Alessandro_Braccio.jpeg 
+  bio: https://www.linkedin.com/in/abraccio/ 
 
 - name: Susanna Buson
   foto: Susanna_Buson.jpg
-  bio:  /bio/Susanna_Buson.jpg
+  bio: https://www.linkedin.com/in/susanna-buson-a449092/
 
 - name: Pierluigi Carbone
-  logo: tba
-  foto: tba
+  logo: unicredit.png
+  foto: https://www.linkedin.com/in/pglinkedin/
 
 - name: Roberto Carbone
   logo: small_bruno_kessler.gif
   foto: Roberto_Carbone.jpg
-  bio:  /bio/Roberto_Carbone.pdf
+  bio:  https://www.linkedin.com/in/roberto-carbone-400b8b77/
 
 - name: Micaela Caserza Magro
-  logo: tba
-  foto: tba
+  foto: michaela_caserza_magro.jpg
+  bio: https://www.linkedin.com/in/micaela-caserza-magro-5664a52a/
 
 - name: Alessandro Cerasoli
   logo: NIS.gif
   foto: Alessandro_Cerasoli.jpg
-  bio:  /bio/Alessandro_Cerasoli.pdf
+  bio:  https://www.linkedin.com/in/alessandrocerasoli/
 
 - name: Giovanni Chiola
   logo: unige_dibris.png
   foto: giovannichiola.jpg
-  bio:  /bio/Giovanni_Chiola.pdf
+  bio:  https://www.dibris.unige.it/chiola-giovanni
 
 - name: Fabio Cocurullo
-  logo: tba
-  foto: tba
+  logo: Leonardo.png
+  foto: Fabio_Cocurullo.jpg
+  bio: https://www.linkedin.com/in/fabio-cocurullo-bb65562/
 
 - name: Daniele De Bertol
-  logo: tba
-  foto: tba
+  logo: small_ansaldo_sts.gif
+  foto: small-abb.gif
   
 - name: Gianna Detoni
-  logo: tba
-  foto: tba
+  logo: pantaray.png
+  foto: Gianna_Detoni.jpeg
+  bio: https://www.linkedin.com/in/giannadetoni/
 
 - name: Mattia Epifani
   logo: reality-net.png
   foto: Mattia_Epifani.jpg
-  bio:  /bio/Mattia_Epifani.pdf
+  bio:  https://www.linkedin.com/in/mattiaepifani/
 
 - name: Enrico Ferretti
   logo: protiviti.gif
   foto: Enrico_Ferretti.jpg
-  bio:  /bio/Enrico_Ferretti.pdf
+  bio:  https://www.linkedin.com/in/enrico-ferretti-098a0a1/
   
 - name: Paola Girdinio
   logo: unige_diten.png
   foto: paola_girdinio.jpg
+  bio: https://www.linkedin.com/in/paola-girdinio-50258777/
 
 - name: Giovanni Lagorio
   logo: unige_dibris.png
   foto: GiovanniLagorio.jpg
-  bio:  /bio/Giovanni_Lagorio.pdf
+  bio:  https://csec.it/people/giovanni_lagorio/
 
-- name: Stefano Lorenzi
-  logo: small-piaggioaerospace.png
-  foto: tba
+- name: Simone Lorenzi
+  logo: ibm.png
+  foto: Simone_Lorenzi.jpeg
+  bio: https://www.linkedin.com/in/simonelorenzi/
  
 - name: Roberto Losengo
   logo: losengo-soliani.gif
   foto: Roberto_Losengo.jpg
-  bio:  /bio/Roberto_Losengo.pdf
+  bio:  https://www.linkedin.com/in/roberto-losengo-43880283/
   
 - name: Mario Marchese
   logo: unige_diten.png
-  foto: tba
+  foto: Mario_Marchese.jpeg
+  bio: https://www.linkedin.com/in/mario-marchese-0930547/
 
 - name: Pietro Marmo
-  logo: tba
-  foto: tba
+  logo: small_ansaldo_sts.gif
+  foto: no-pic.jpg
   
 - name: Stefano Martinazzo
   logo: small-axerta.png
@@ -99,7 +105,7 @@
 - name: Danilo Massa
   logo: aizoon.gif
   foto: DaniloMassa.jpg
-  bio:  /bio/Danilo_Massa.pdf
+  bio:  https://www.linkedin.com/in/danilomassa/
 
 - name: Ermete Meda
   logo: small_ansaldo_sts.gif
@@ -112,12 +118,14 @@
   bio: 	/bio/Alessio_Merlo.pdf
 
 - name: Gabriele Nani
-  logo: tba
-  foto: tba
+  logo: small-abb.gif
+  foto: no-pèic.jpg
+  bio: https://www.linkedin.com/in/gabriele-nani-31146669/
 
 - name: Francesco Perna
-  logo: tba
-  foto: tba
+  logo: Enel.png
+  foto: Francesco_Perna.jpg
+  bio: https://www.linkedin.com/in/francesco-perna-97309843/
 
 - name: Francesco Picasso
   logo: reality-net.png
@@ -125,17 +133,19 @@
   bio: 	/bio/Francesco_Picasso.pdf
   
 - name: Pierluigi Pugni
-  logo: tba
-  foto: tba
+  logo: Enel.png
+  foto: Gian_Luigi_Pugni.jpeg
+  bio: https://www.linkedin.com/in/gian-luigi-pugni-274b3389/
 
 - name: Stefano Ramacciotti
-  logo: Ansaldo_Energia_small.jpg
-  foto: Gaetano_Sanacore.jpg
-  bio:  /bio/Gaetano_Sanacore.pdf
+  logo: logo-ministero-difesa.png
+  foto: Stefano_Ramacciotti.jpeg
+  bio:  https://www.linkedin.com/in/stefano-ramacciotti-12123420/
 
 - name: Silvio Ranise
-  logo: tba
-  foto: tba
+  logo: small_bruno_kessler.gif
+  foto: Silvio_Ranise.jpeg
+  bio: https://www.linkedin.com/in/silvio-ranise-34b0ba1/
 
 - name: Yuri Rassega
   logo: tba

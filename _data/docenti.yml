@@ -24,9 +24,9 @@
   bio: https://www.linkedin.com/in/susanna-buson-a449092/
 
 - name: Pierluigi Carbone
-  foto: no-pic.jpg
   logo: unicredit.png
-  foto: https://www.linkedin.com/in/pglinkedin/
+  foto: no-pic.jpg
+  bio: https://www.linkedin.com/in/pglinkedin/
 
 - name: Roberto Carbone
   logo: small_bruno_kessler.gif
@@ -34,7 +34,8 @@
   bio:  https://www.linkedin.com/in/roberto-carbone-400b8b77/
 
 - name: Micaela Caserza Magro
-  foto: michaela_caserza_magro.jpg
+  logo: empty.jpg
+  foto: micaela_caserza_magro.jpg
   bio: https://www.linkedin.com/in/micaela-caserza-magro-5664a52a/
 
 - name: Alessandro Cerasoli

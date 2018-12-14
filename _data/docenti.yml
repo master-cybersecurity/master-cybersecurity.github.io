@@ -9,19 +9,22 @@
   bio: https://www.linkedin.com/in/matteo-arrigoni-67341a3/
 
 - name: Elena Bassoli
+  logo: empty.jpg
   foto: Elena_Bassoli.jpg
   bio:  https://www.linkedin.com/in/elenabassoli/
   
 - name: Alessandro Braccio
   logo: small_minded_security.gif
-  foto: Alessandro_Braccio.jpeg 
+  foto: Alessandro_Braccio.jpg 
   bio: https://www.linkedin.com/in/abraccio/ 
 
 - name: Susanna Buson
+  logo: empty.jpg
   foto: Susanna_Buson.jpg
   bio: https://www.linkedin.com/in/susanna-buson-a449092/
 
 - name: Pierluigi Carbone
+  foto: no-pic.jpg
   logo: unicredit.png
   foto: https://www.linkedin.com/in/pglinkedin/
 
@@ -51,12 +54,12 @@
 
 - name: Daniele Debertol
   logo: small_ansaldo_sts.gif
-  foto: Daniele_Debertol.png
+  foto: Daniele_Debertol.jpg
   bio: /bio/Daniele_Debertol.pdf
   
 - name: Gianna Detoni
   logo: pantaray.png
-  foto: Gianna_Detoni.jpeg
+  foto: Gianna_Detoni.jpg
   bio: https://www.linkedin.com/in/giannadetoni/
 
 - name: Mattia Epifani
@@ -81,7 +84,7 @@
 
 - name: Simone Lorenzi
   logo: ibm.png
-  foto: Simone_Lorenzi.jpeg
+  foto: Simone_Lorenzi.jpg
   bio: https://www.linkedin.com/in/simonelorenzi/
  
 - name: Roberto Losengo
@@ -91,7 +94,7 @@
   
 - name: Mario Marchese
   logo: unige_diten.png
-  foto: Mario_Marchese.jpeg
+  foto: Mario_Marchese.jpg
   bio: https://www.linkedin.com/in/mario-marchese-0930547/
 
 - name: Pietro Marmo
@@ -100,7 +103,7 @@
   
 - name: Stefano Martinazzo
   logo: small-axerta.png
-  foto: Stefano_Martinazzo.png
+  foto: Stefano_Martinazzo.jpg
   bio: /bio/Stefano_Martinazzo.pdf	
 
 - name: Danilo Massa
@@ -135,21 +138,21 @@
   
 - name: Pierluigi Pugni
   logo: Enel.png
-  foto: Gian_Luigi_Pugni.jpeg
+  foto: Gian_Luigi_Pugni.jpg
   bio: https://www.linkedin.com/in/gian-luigi-pugni-274b3389/
 
 - name: Stefano Ramacciotti
   logo: logo-ministero-difesa.png
-  foto: Stefano_Ramacciotti.jpeg
+  foto: Stefano_Ramacciotti.jpg
   bio:  https://www.linkedin.com/in/stefano-ramacciotti-12123420/
 
 - name: Silvio Ranise
   logo: small_bruno_kessler.gif
-  foto: Silvio_Ranise.jpeg
+  foto: Silvio_Ranise.jpg
   bio: https://www.linkedin.com/in/silvio-ranise-34b0ba1/
 
 - name: Yuri Rassega
-  logo: Enel.png
+  logo: enel.png
   foto: Yuri_Rassega.jpg  
   bio: https://italy.cybertechconference.com/yuri-g-rassega
   
@@ -160,12 +163,12 @@
 
 - name: Marina Ribaudo
   logo: unige_dibris.png
-  foto: Marina_Ribaudo.jpeg
+  foto: Marina_Ribaudo.jpg
   bio: https://www.disi.unige.it/person/RibaudoM/
 
 - name: Stefano Solari
   logo: Leonardo.png
-  foto: Stefano_Solari.jpeg
+  foto: Stefano_Solari.jpg
   bio: https://www.linkedin.com/in/stefano-solari-58a37552/
 
 - name: Roberto Surlinelli
@@ -175,7 +178,7 @@
 
 - name: Luca Verderame
   logo: small-talos.png
-  foto: Luca_Verderame.png
+  foto: Luca_Verderame.jpg
   bio: 	https://www.linkedin.com/in/lucaverderame/
 
 - name: Rodolfo Zunino

@@ -148,8 +148,9 @@
   bio: https://www.linkedin.com/in/silvio-ranise-34b0ba1/
 
 - name: Yuri Rassega
-  logo: tba
-  foto: tba  
+  logo: Enel.png
+  foto: Yuri_Rassega.jpg  
+  bio: https://italy.cybertechconference.com/yuri-g-rassega
   
 - name: Antonio Rebora
   logo: Ansaldo_Energia_small.jpg
@@ -158,24 +159,26 @@
 
 - name: Marina Ribaudo
   logo: unige_dibris.png
-  foto: tba
+  foto: Marina_Ribaudo.jpeg
+  bio: https://www.disi.unige.it/person/RibaudoM/
 
 - name: Stefano Solari
-  logo: tba
-  foto: tba
+  logo: Leonardo.png
+  foto: Stefano_Solari.jpeg
+  bio: https://www.linkedin.com/in/stefano-solari-58a37552/
 
 - name: Roberto Surlinelli
   logo: polizia_di_stato.gif
   foto: Roberto_Surlinelli.jpg
-  bio: 	/bio/Roberto_Surlinelli.pdf
+  bio: 	https://www.linkedin.com/in/robertosurlinelli/
 
 - name: Luca Verderame
   logo: small-talos.png
   foto: Luca_Verderame.png
-  bio: 	/bio/Luca_Verderame.pdf
+  bio: 	https://www.linkedin.com/in/lucaverderame/
 
 - name: Rodolfo Zunino
   logo: unige_diten.png
   foto: RodolfoZunino.jpg
-  bio: 	/bio/Rodolfo_Zunino.pdf
+  bio: 	http://www.elettronica.unige.it/index.php/docenti/927-rodolfo-zunino
 

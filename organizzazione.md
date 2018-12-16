@@ -32,7 +32,6 @@ Presidente: **Prof. Alessio Merlo**
 * Ing. Silvio Ranise (Fondazione Bruno Kessler)
 * Ing. Gaetano Sanacore (Ansaldo Energia)
 * Ing. Antonio Rebora (Ansaldo Energia)
-
 * Gen. B. A. Francesco Vestito (Stato Maggiore della Difesa- Comando Interforze per le Operazioni Cibernetiche)
 
 <hr>

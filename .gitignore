@@ -2,4 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 offerta.PNG
-logo/unige_diten.png
+.DS_Store

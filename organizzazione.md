@@ -53,4 +53,3 @@ tel. +39 010 209 9466
 * Valentina Resaz [valentina.resaz@unige.it](mailto:valentina.resaz@unige.it) 
 * Elena Tortora [elena.tortora@unige.it](mailto:elena.tortora@unige.it) 
 * Indirizzo internet: [www.perform.unige.it](https://www.perform.unige.it)
-<hr>

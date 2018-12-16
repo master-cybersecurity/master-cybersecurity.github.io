@@ -71,4 +71,3 @@ L'iscrizione va perfezionata entro il 30 aprile 2018 mediante procedura online c
 
 * **Giovedi 2 maggio 2019** (da definire il luogo dell'inaugurazione).
 
-<hr>

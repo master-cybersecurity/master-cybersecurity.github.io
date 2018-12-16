@@ -5,10 +5,10 @@ order: 5
 ---
 
 # Sponsor
-TBA
+
+* TBA...
 
 # Partner
-TBA
 
 <!-- Aderiscono al progetto le seguenti Aziende e enti, anche attraverso la disponibilità di docenza diretta nell'attività didattica:
 
@@ -24,23 +24,30 @@ TBA
 * Leonardo
 * RINA
 * UniCredit.
+*
+--> 
 
 Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/project work le seguenti aziende o enti: 
-* Consiglio Nazionale delle Ricerche
-* ConsiQ
-* DASTech
+
+* Ansaldo Energia
+* Ansaldo STS
 * ENEL
 * Fondazione Bruno Kessler
 * FortiNet
 * IBM
-* InTheCyber Srl
+* Leonardo
+* Losengo e Soliani, Studio Associato
 * Minded Security
-* Piaggio AeroSpace
+* Ministero della Difesa
+* NIS
+* PantaRay
 * Protivity
 * RealityNet
 * TALOS
-* Vodafone.
--->
+* Unicredit
+* TBA ...
+
+<hr> 
 
 <!-- 
 

@@ -8,16 +8,14 @@ order: 1
 
 ### Specializzazioni
 
-- *Digital Forensics & Penetration Testing*
-- *Critical Infrastructure Protection & Security Assurance* 
+- **Digital Forensics & Penetration Testing**
+- **Critical Infrastructure Protection & Security Assurance** 
 
 ### Sbocchi Occupazionali
 
 La natura variata e molteplice delle Aziende che aderiscono al Master evidenzia l'ampio spettro di ricadute
-occupazionali legate al conseguimento del titolo del Master. Recenti indagini indipendenti (Capital, Nro 447-448,
-sett/ott 2017) a livello nazionale evidenziano l'alto assorbimento di personale skilled in Cybersecurity da parte di tutto il
-comparto produttivo. Fra i numerosi profili, sebbene in senso non esclusivo, si possono comunque delineare alcuni
-sbocchi professionali di riferimento, sottolineando tuttavia che la rapidissima evoluzione dello scenario odierno offre
+occupazionali legate al conseguimento del titolo del Master. Recenti indagini indipendenti (Capital, Nro 447-448, sett/ott 2017) a livello nazionale evidenziano l'alto assorbimento di personale skilled in Cybersecurity da parte di tutto il
+comparto produttivo. Fra i numerosi profili, sebbene in senso non esclusivo, si possono comunque delineare alcuni sbocchi professionali di riferimento, sottolineando tuttavia che la rapidissima evoluzione dello scenario odierno offre
 prospettive e potenzialità ben ulteriori rispetto a quelle evidenziate: 
 
 * Information Security Officer in aziende o Corporate 
@@ -39,7 +37,7 @@ Il recente rapporto WYSER del 2018 evidenzia che:
 
 ### Bando e Scadenze
 
-Le modalità di accesso al bando e le tempistiche verranno annunciate a breve.
+Le modalità di accesso al bando e le tempistiche verranno rese note entro l'inizio di febbraio 2019.
 
 <!-- * Le modalità di accesso al **Master** sono descritte nel [**D.R. 173 del 17.01.2018**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/DR%20n.%20173%20del%2017.01.2018%20fto.pdf).
 * La scadenza per la presentazione della domanda telematica è il **30 Marzo, 2018, entro le ore 12:00** all'indirizzo: [Master \| Servizi Online](https://servizionline.unige.it/studenti/post-laurea/master).
@@ -56,7 +54,7 @@ Le modalità di accesso al bando e le tempistiche verranno annunciate a breve.
 
 ### Prove di ammissione
 
-La prova di ammissione consta di una prova scritta e di una prova orale. Maggiori informazioni saranno fornite a breve.
+La prova di ammissione consta di una prova scritta e di una prova orale. Maggiori informazioni saranno fornite entro febbraio 2019.
 
 <!-- * **La  prova  scritta  sarà  effettuata  il 9  aprile  2018  alle  ore  16:00** presso  i  locali  (aula  B2)  della  Scuola  Politecnica   dell’Università  di  Genova  –  Via  Opera  Pia  15  A  –  16145  Genova. 
 * L’elenco  degli  ammessi  alla  prova  orale,  la  sede delle prove orali e il relativo calendario saranno resi disponibili mediante affissione presso il Dipartimento di Ingegneria Navale,  Elettrica,  Elettronica  e  delle  Telecomunicazioni  (DITEN), Via   all’Opera  Pia  11A  -  16145  Genova e  sul  sito web del Dipartimento ([www.diten.unige.it](http://www.diten.unige.it)) entro **il giorno 11 aprile 2018**.
@@ -71,5 +69,6 @@ L'iscrizione va perfezionata entro il 30 aprile 2018 mediante procedura online c
 
 ### Inizio Corso 
 
-Giovedi 2 maggio 2019 (da definire il luogo dell'inaugurazione).
+* **Giovedi 2 maggio 2019** (da definire il luogo dell'inaugurazione).
 
+<hr>

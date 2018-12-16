@@ -16,12 +16,9 @@ Presidente: Prof. Alessio Merlo
 * Prof. Alessio Merlo (Università di Genova)
 * Prof. Rodolfo Zunino (Università di Genova)
 * Prof. Alessandro Armando (Università di Genova)
-* Prof. Riccardo Bozzo (Università di Genova)
 * Prof. Giovanni Chiola (Università di Genova)
-* Prof. Paolo Gastaldo (Università di Genova)
 * Prof.ssa Paola Girdinio (Università di Genova)
 * Ing. Lorenzo Ivaldi (Università di Genova)
-* Prof. Giovanni Lagorio (Università di Genova)
 * Prof. Mario Marchese (Università di Genova)
 * Prof. Paolo Pinceti (Università di Genova)
 * Prof. Sebastiano Serpico (Università di Genova)
@@ -30,16 +27,21 @@ Presidente: Prof. Alessio Merlo
 * Dr. Mattia Epifani (REALITYNET)
 * Ing. Ermete Meda (Ansaldo STS)
 * Ing. Danilo Massa (Aizoon)
-* Ing. Danilo Moresco (ABB)
-* Ing. Daniele Patuelli (ABB)
 * Ing. Silvio Ranise (Fondazione Bruno Kessler)
 * Ing. Gaetano Sanacore (Ansaldo Energia)
 * Ing. Antonio Rebora (Ansaldo Energia)
-* Dott.ssa Patrizia Queirolo (LEONARDO)
+
 * Gen. B. A. Francesco Vestito (Stato Maggiore della Difesa- Comando Interforze per le Operazioni Cibernetiche)
 
+<hr>
+
 ### Industrial Board
-TBA
+* Ing. Danilo Moresco (ABB)
+* Ing. Daniele Patuelli (ABB)
+* Dott.ssa Patrizia Queirolo (LEONARDO)
+* TBA
+
+<hr>
 
 La segreteria organizzativa e amministrativo-contabile e la funzione di sportello informativo del Master è svolta dal Servizio Apprendimento Permanente dell'Università degli Studi di Genova (PERFORM).
 

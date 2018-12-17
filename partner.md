@@ -27,10 +27,13 @@ order: 5
 *
 --> 
 
-Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/project work le seguenti aziende o enti: 
+Aderiscono al progetto le seguenti Aziende e enti, attraverso attività di docenza diretta e/o offerta di Stage/project work: 
 
+<!--
+* Aizoon
 * Ansaldo Energia
 * Ansaldo STS
+* Axerta
 * ENEL
 * Fondazione Bruno Kessler
 * FortiNet
@@ -46,7 +49,12 @@ Contribuiscono con possibile attività di docenza diretta e/o offerta di Stage/p
 * TALOS
 * Unicredit
 * TBA ...
+-->
 
+|![Aizoon](./logo/aizoon.gif)  | ![AEN](./logo/Ansaldo_Energia.jpg)  |![STS](./logo/small_ansaldo_sts.gif)|![ENEL](./logo/Enel.jpg)| ![Axerta](./logo/small-axerta.jpg) | ![FBK](./logo/small_bruno_kessler.gif)
+|---|---|---|---|---|---|
+| ![FORTINET](./logo/fortinet.jpg)  | ![IBM](./logo/ibm.jpg)  | ![Leonardo](./logo/Leonardo.jpg)  | ![Losengo](./logo/losengo-soliani.gif)  | ![Minded](./logo/small_minded_security.gif)  | ![MDD](./logo/logo-ministero-difesa.jpg)  |
+| ![NIS](./logo/NIS.gif)  | ![PantaRay](./logo/pantaray.jpg)  |   ![Protivity](./logo/protiviti.gif)| ![RealityNet](./logo/reality-net.jpg)  | ![Talos](./logo/small-talos.jpg)  |    ![Unicredit](./logo/UniCredit.jpg)|
 
 <!-- 
 

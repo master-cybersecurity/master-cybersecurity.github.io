@@ -53,6 +53,5 @@ Il programma è articolato nei seguenti moduli didattici:
  
 ---
 
-<!--
 ![Piano Didattico](offerta2019.jpg)
--->
+

@@ -29,6 +29,9 @@ Presidente: **Prof. Alessio Merlo**
 * Dr. Mattia Epifani (REALITYNET)
 * Ing. Ermete Meda (Ansaldo STS)
 * Ing. Danilo Massa (Aizoon)
+* Ing. Danilo Moresco (ABB)
+* Ing. Daniele Patuelli (ABB)
+* Dott.ssa Patrizia Queirolo (LEONARDO)
 * Ing. Silvio Ranise (Fondazione Bruno Kessler)
 * Ing. Gaetano Sanacore (Ansaldo Energia)
 * Ing. Antonio Rebora (Ansaldo Energia)
@@ -37,9 +40,8 @@ Presidente: **Prof. Alessio Merlo**
 <hr>
 
 ### Industrial Board
-* Ing. Danilo Moresco (ABB)
-* Ing. Daniele Patuelli (ABB)
-* Dott.ssa Patrizia Queirolo (LEONARDO)
+
+
 * TBA
 
 <hr>

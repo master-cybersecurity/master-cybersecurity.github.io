@@ -6,6 +6,7 @@ order: 2
 
 Il Master si contraddistingue per un approccio innovativo alla formazione, che coniuga il rigore e la sistematicità della docenza accademica con l'esperienza sul campo e il pragmatismo della docenza aziendale e professionale.
  
+ 
 Il programma è articolato nei seguenti moduli didattici:
 
 ## Parte I - Formazione Culturale
@@ -50,8 +51,6 @@ Il programma è articolato nei seguenti moduli didattici:
 1. Risk Propagation in Interconnected Infrastructures
 1. Cybersecurity for power and energy systems
  
+---
 
-[//]: # (## PIANO DIDATTICO)
-
-[//]: # (![Piano Didattico](/offerta.PNG){:.img-responsive.center-block})
-
+![Piano Didattico](offerta2019.jpg)

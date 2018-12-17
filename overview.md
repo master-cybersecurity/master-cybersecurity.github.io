@@ -46,7 +46,7 @@ Le modalità di accesso al bando e le tempistiche verranno rese note entro l'ini
 ### Informazioni generali
 
 * **Durata:** 12 mesi
-* **Periodo:** 2 maggio 2018 - 26 aprile 2020
+* **Periodo:** 2 maggio 2019 - 26 aprile 2020
 * **Frequenza:** il corso si articola in 16 ore di lezione settimanali dal giovedi pomeriggio al sabato mattina, con tolleranza delle assenze pari al 30%.
 * **Attività didattica/laboratorio:** 432 ore
 * **Stage/project work:** 150 ore

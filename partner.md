@@ -4,9 +4,9 @@ title: Sponsor & Partner
 order: 5
 ---
 
-# Sponsor
+# Platinum Sponsor
 
-* PLATINUM SPONSOR: ![LEONARDO](../images/leonardo.png)
+![LEONARDO](../images/leonardo.png)
 
 # Partner
 

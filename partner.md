@@ -6,7 +6,7 @@ order: 5
 
 # Platinum Sponsor
 
-![LEONARDO](../images/leonardo-new.png)
+![LEONARDO](../images/leonardo.png)
 
 # Partner
 

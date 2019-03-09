@@ -4,5 +4,6 @@ title: Modalità di accesso
 order: 6
 ---
 
-Le modalità di accesso verranno rese note entro l'inizio di febbraio 2019.
+* [Modalità di accesso al Master Universitario](https://www.perform.unige.it/master/master-cybersecurity.html)
+* [Modalità di accesso al Corso di Formazione](https://www.perform.unige.it/corsi/corso-cybersecurity.html)
 

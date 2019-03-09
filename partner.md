@@ -6,7 +6,7 @@ order: 5
 
 # Sponsor
 
-* TBA...
+* PLATINUM SPONSOR: (LEONARDO)[../images/leonardo.png]
 
 # Partner
 

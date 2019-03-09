@@ -6,7 +6,7 @@ order: 5
 
 # Sponsor
 
-* PLATINUM SPONSOR: [LEONARDO](../images/leonardo.png)
+* PLATINUM SPONSOR: ![LEONARDO](../images/leonardo.png)
 
 # Partner
 

@@ -37,7 +37,10 @@ Il recente rapporto WYSER del 2018 evidenzia che:
 
 ### Bando e Scadenze
 
-Le modalità di accesso al bando e le tempistiche verranno rese note entro l'inizio di febbraio 2019.
+Le modalità di accesso al master ed al corso di formazione sono disponibili qui:
+
+* [Modalità di accesso al Master Universitario](https://www.perform.unige.it/master/master-cybersecurity.html)
+* [Modalità di accesso al Corso di Perfezionamento](https://www.perform.unige.it/corsi/corso-cybersecurity.html)
 
 <!-- * Le modalità di accesso al **Master** sono descritte nel [**D.R. 173 del 17.01.2018**](https://www.studenti.unige.it/sites/www.studenti.unige.it/files/master/DR%20n.%20173%20del%2017.01.2018%20fto.pdf).
 * La scadenza per la presentazione della domanda telematica è il **30 Marzo, 2018, entro le ore 12:00** all'indirizzo: [Master \| Servizi Online](https://servizionline.unige.it/studenti/post-laurea/master).

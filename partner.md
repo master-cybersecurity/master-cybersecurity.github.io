@@ -8,6 +8,12 @@ order: 5
 
 ![LEONARDO](../images/leonardo1.png)
 
+## Gold Sponsor
+![ABB](../images/abb.png)
+
+## Silver Sponsor
+![SEASTEMA](../images/seastema.jpg)
+
 # Partner
 
 <!-- Aderiscono al progetto le seguenti Aziende e enti, anche attraverso la disponibilità di docenza diretta nell'attività didattica:

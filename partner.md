@@ -1,5 +1,5 @@
 ---
-layout: partner
+layout: page
 title: Sponsor & Partner
 order: 5
 ---
